@@ -1,12 +1,6 @@
-# CIS3760
+## Overview
+I built this web app with 5 other students at the University of Guelph. This is a scheduling web app for university of guelph courses. It provides users with a clean UX to view and select UoG classes as well as some unique auto course selecting features. My primary contribution to this project was designing, implementing and quering the PSQL database. 
 
-These are the course projects of group 301.
-
-# Sprint 9
-How to get everything up and running for our setup on linux.
-Where to put the files and how to start and restart the server.
-
-Web application URL: https://uog-course-scheduler.page
 
 Figma UX Design URL: https://www.figma.com/file/qZglav2OeAa6JItNeaTvld/Main?node-id=0%3A1
 
