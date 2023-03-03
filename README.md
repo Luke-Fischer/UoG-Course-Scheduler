@@ -1,5 +1,5 @@
 ## Overview
-I built this web app with 5 other students at the University of Guelph. This is a scheduling web app for university of guelph courses. It provides users with a clean UX to view and select UoG classes as well as some unique auto course selecting features. My primary contribution to this project was designing, implementing and quering the PSQL database. 
+I built this web app with 5 other students at the University of Guelph. This is a scheduling web app for university of guelph courses. It provides users with a clean UX to view and select UoG classes as well as some unique auto course selecting features. My primary contribution to this project was designing, implementing and quering the PSQL database as well as some minor testing using pytest. 
 
 
 Figma UX Design URL: https://www.figma.com/file/qZglav2OeAa6JItNeaTvld/Main?node-id=0%3A1
