@@ -1,0 +1,6110 @@
+[
+    {
+        "term": "Fall 2022",
+        "status": "Closed",
+        "location": "Guelph",
+        "faculty": "TBA  TBA",
+        "credits": 0.5,
+        "academic_level": "Undergraduate",
+        "spots": {
+            "availability": 0,
+            "capacity": 400
+        },
+        "section": {
+            "full": "CIS*1200*DE01 (7161) Introduction to Computing",
+            "course": "CIS*1200",
+            "section_num": "DE01",
+            "course_name": "Introduction to Computing"
+        },
+        "meeting": {
+            "lec": [],
+            "lab": [],
+            "exam": [
+                [
+                    "1900-01-01T08:30:00",
+                    "1900-01-01T10:30:00",
+                    "Tues",
+                    "",
+                    0
+                ]
+            ]
+        }
+    },
+    {
+        "term": "Fall 2022",
+        "status": "Closed",
+        "location": "Guelph",
+        "faculty": "R. Chaturvedi",
+        "credits": 0.5,
+        "academic_level": "Undergraduate",
+        "spots": {
+            "availability": 0,
+            "capacity": 27
+        },
+        "section": {
+            "full": "CIS*1250*0101 (7162) Software Design I",
+            "course": "CIS*1250",
+            "section_num": "0101",
+            "course_name": "Software Design I"
+        },
+        "meeting": {
+            "lec": [
+                [
+                    "1900-01-01T16:30:00",
+                    "1900-01-01T17:20:00",
+                    "Mon",
+                    "LA",
+                    204
+                ],
+                [
+                    "1900-01-01T16:30:00",
+                    "1900-01-01T17:20:00",
+                    "Wed",
+                    "LA",
+                    204
+                ],
+                [
+                    "1900-01-01T16:30:00",
+                    "1900-01-01T17:20:00",
+                    "Fri",
+                    "LA",
+                    204
+                ]
+            ],
+            "lab": [
+                [
+                    "1900-01-01T14:30:00",
+                    "1900-01-01T16:20:00",
+                    "Wed",
+                    "THRN",
+                    2420
+                ]
+            ],
+            "exam": [
+                [
+                    "1900-01-01T11:30:00",
+                    "1900-01-01T13:30:00",
+                    "Tues",
+                    "",
+                    0
+                ]
+            ]
+        }
+    },
+    {
+        "term": "Fall 2022",
+        "status": "Closed",
+        "location": "Guelph",
+        "faculty": "R. Chaturvedi",
+        "credits": 0.5,
+        "academic_level": "Undergraduate",
+        "spots": {
+            "availability": 0,
+            "capacity": 27
+        },
+        "section": {
+            "full": "CIS*1250*0102 (7163) Software Design I",
+            "course": "CIS*1250",
+            "section_num": "0102",
+            "course_name": "Software Design I"
+        },
+        "meeting": {
+            "lec": [
+                [
+                    "1900-01-01T16:30:00",
+                    "1900-01-01T17:20:00",
+                    "Mon",
+                    "LA",
+                    204
+                ],
+                [
+                    "1900-01-01T16:30:00",
+                    "1900-01-01T17:20:00",
+                    "Wed",
+                    "LA",
+                    204
+                ],
+                [
+                    "1900-01-01T16:30:00",
+                    "1900-01-01T17:20:00",
+                    "Fri",
+                    "LA",
+                    204
+                ]
+            ],
+            "lab": [
+                [
+                    "1900-01-01T08:30:00",
+                    "1900-01-01T10:20:00",
+                    "Tues",
+                    "THRN",
+                    2420
+                ]
+            ],
+            "exam": [
+                [
+                    "1900-01-01T11:30:00",
+                    "1900-01-01T13:30:00",
+                    "Tues",
+                    "",
+                    0
+                ]
+            ]
+        }
+    },
+    {
+        "term": "Fall 2022",
+        "status": "Closed",
+        "location": "Guelph",
+        "faculty": "R. Chaturvedi",
+        "credits": 0.5,
+        "academic_level": "Undergraduate",
+        "spots": {
+            "availability": 0,
+            "capacity": 27
+        },
+        "section": {
+            "full": "CIS*1250*0103 (7164) Software Design I",
+            "course": "CIS*1250",
+            "section_num": "0103",
+            "course_name": "Software Design I"
+        },
+        "meeting": {
+            "lec": [
+                [
+                    "1900-01-01T16:30:00",
+                    "1900-01-01T17:20:00",
+                    "Mon",
+                    "LA",
+                    204
+                ],
+                [
+                    "1900-01-01T16:30:00",
+                    "1900-01-01T17:20:00",
+                    "Wed",
+                    "LA",
+                    204
+                ],
+                [
+                    "1900-01-01T16:30:00",
+                    "1900-01-01T17:20:00",
+                    "Fri",
+                    "LA",
+                    204
+                ]
+            ],
+            "lab": [
+                [
+                    "1900-01-01T08:30:00",
+                    "1900-01-01T10:20:00",
+                    "Thur",
+                    "THRN",
+                    2420
+                ]
+            ],
+            "exam": [
+                [
+                    "1900-01-01T11:30:00",
+                    "1900-01-01T13:30:00",
+                    "Tues",
+                    "",
+                    0
+                ]
+            ]
+        }
+    },
+    {
+        "term": "Fall 2022",
+        "status": "Closed",
+        "location": "Guelph",
+        "faculty": "R. Chaturvedi",
+        "credits": 0.5,
+        "academic_level": "Undergraduate",
+        "spots": {
+            "availability": 0,
+            "capacity": 27
+        },
+        "section": {
+            "full": "CIS*1250*0104 (9440) Software Design I",
+            "course": "CIS*1250",
+            "section_num": "0104",
+            "course_name": "Software Design I"
+        },
+        "meeting": {
+            "lec": [
+                [
+                    "1900-01-01T16:30:00",
+                    "1900-01-01T17:20:00",
+                    "Mon",
+                    "LA",
+                    204
+                ],
+                [
+                    "1900-01-01T16:30:00",
+                    "1900-01-01T17:20:00",
+                    "Wed",
+                    "LA",
+                    204
+                ],
+                [
+                    "1900-01-01T16:30:00",
+                    "1900-01-01T17:20:00",
+                    "Fri",
+                    "LA",
+                    204
+                ]
+            ],
+            "lab": [
+                [
+                    "1900-01-01T14:30:00",
+                    "1900-01-01T16:20:00",
+                    "Fri",
+                    "THRN",
+                    2420
+                ]
+            ],
+            "exam": [
+                [
+                    "1900-01-01T11:30:00",
+                    "1900-01-01T13:30:00",
+                    "Tues",
+                    "",
+                    0
+                ]
+            ]
+        }
+    },
+    {
+        "term": "Fall 2022",
+        "status": "Closed",
+        "location": "Guelph",
+        "faculty": "R. Chaturvedi",
+        "credits": 0.5,
+        "academic_level": "Undergraduate",
+        "spots": {
+            "availability": 0,
+            "capacity": 33
+        },
+        "section": {
+            "full": "CIS*1300*0101 (7165) Programming",
+            "course": "CIS*1300",
+            "section_num": "0101",
+            "course_name": "Programming"
+        },
+        "meeting": {
+            "lec": [
+                [
+                    "1900-01-01T14:30:00",
+                    "1900-01-01T15:50:00",
+                    "Tues",
+                    "ROZH",
+                    101
+                ],
+                [
+                    "1900-01-01T14:30:00",
+                    "1900-01-01T15:50:00",
+                    "Thur",
+                    "ROZH",
+                    101
+                ]
+            ],
+            "lab": [
+                [
+                    "1900-01-01T11:30:00",
+                    "1900-01-01T13:20:00",
+                    "Fri",
+                    "REYN",
+                    2
+                ]
+            ],
+            "exam": [
+                [
+                    "1900-01-01T08:30:00",
+                    "1900-01-01T10:30:00",
+                    "Fri",
+                    "",
+                    0
+                ]
+            ]
+        }
+    },
+    {
+        "term": "Fall 2022",
+        "status": "Closed",
+        "location": "Guelph",
+        "faculty": "R. Chaturvedi",
+        "credits": 0.5,
+        "academic_level": "Undergraduate",
+        "spots": {
+            "availability": 0,
+            "capacity": 33
+        },
+        "section": {
+            "full": "CIS*1300*0102 (7166) Programming",
+            "course": "CIS*1300",
+            "section_num": "0102",
+            "course_name": "Programming"
+        },
+        "meeting": {
+            "lec": [
+                [
+                    "1900-01-01T14:30:00",
+                    "1900-01-01T15:50:00",
+                    "Tues",
+                    "ROZH",
+                    101
+                ],
+                [
+                    "1900-01-01T14:30:00",
+                    "1900-01-01T15:50:00",
+                    "Thur",
+                    "ROZH",
+                    101
+                ]
+            ],
+            "lab": [
+                [
+                    "1900-01-01T08:30:00",
+                    "1900-01-01T10:20:00",
+                    "Mon",
+                    "REYN",
+                    2
+                ]
+            ],
+            "exam": [
+                [
+                    "1900-01-01T08:30:00",
+                    "1900-01-01T10:30:00",
+                    "Fri",
+                    "",
+                    0
+                ]
+            ]
+        }
+    },
+    {
+        "term": "Fall 2022",
+        "status": "Closed",
+        "location": "Guelph",
+        "faculty": "R. Chaturvedi",
+        "credits": 0.5,
+        "academic_level": "Undergraduate",
+        "spots": {
+            "availability": 0,
+            "capacity": 33
+        },
+        "section": {
+            "full": "CIS*1300*0103 (7167) Programming",
+            "course": "CIS*1300",
+            "section_num": "0103",
+            "course_name": "Programming"
+        },
+        "meeting": {
+            "lec": [
+                [
+                    "1900-01-01T14:30:00",
+                    "1900-01-01T15:50:00",
+                    "Tues",
+                    "ROZH",
+                    101
+                ],
+                [
+                    "1900-01-01T14:30:00",
+                    "1900-01-01T15:50:00",
+                    "Thur",
+                    "ROZH",
+                    101
+                ]
+            ],
+            "lab": [
+                [
+                    "1900-01-01T08:30:00",
+                    "1900-01-01T10:20:00",
+                    "Fri",
+                    "REYN",
+                    2
+                ]
+            ],
+            "exam": [
+                [
+                    "1900-01-01T08:30:00",
+                    "1900-01-01T10:30:00",
+                    "Fri",
+                    "",
+                    0
+                ]
+            ]
+        }
+    },
+    {
+        "term": "Fall 2022",
+        "status": "Closed",
+        "location": "Guelph",
+        "faculty": "R. Chaturvedi",
+        "credits": 0.5,
+        "academic_level": "Undergraduate",
+        "spots": {
+            "availability": 0,
+            "capacity": 33
+        },
+        "section": {
+            "full": "CIS*1300*0104 (7168) Programming",
+            "course": "CIS*1300",
+            "section_num": "0104",
+            "course_name": "Programming"
+        },
+        "meeting": {
+            "lec": [
+                [
+                    "1900-01-01T14:30:00",
+                    "1900-01-01T15:50:00",
+                    "Tues",
+                    "ROZH",
+                    101
+                ],
+                [
+                    "1900-01-01T14:30:00",
+                    "1900-01-01T15:50:00",
+                    "Thur",
+                    "ROZH",
+                    101
+                ]
+            ],
+            "lab": [
+                [
+                    "1900-01-01T14:30:00",
+                    "1900-01-01T16:20:00",
+                    "Mon",
+                    "REYN",
+                    2
+                ]
+            ],
+            "exam": [
+                [
+                    "1900-01-01T08:30:00",
+                    "1900-01-01T10:30:00",
+                    "Fri",
+                    "",
+                    0
+                ]
+            ]
+        }
+    },
+    {
+        "term": "Fall 2022",
+        "status": "Closed",
+        "location": "Guelph",
+        "faculty": "R. Chaturvedi",
+        "credits": 0.5,
+        "academic_level": "Undergraduate",
+        "spots": {
+            "availability": 0,
+            "capacity": 33
+        },
+        "section": {
+            "full": "CIS*1300*0105 (7169) Programming",
+            "course": "CIS*1300",
+            "section_num": "0105",
+            "course_name": "Programming"
+        },
+        "meeting": {
+            "lec": [
+                [
+                    "1900-01-01T14:30:00",
+                    "1900-01-01T15:50:00",
+                    "Tues",
+                    "ROZH",
+                    101
+                ],
+                [
+                    "1900-01-01T14:30:00",
+                    "1900-01-01T15:50:00",
+                    "Thur",
+                    "ROZH",
+                    101
+                ]
+            ],
+            "lab": [
+                [
+                    "1900-01-01T11:30:00",
+                    "1900-01-01T13:20:00",
+                    "Mon",
+                    "REYN",
+                    2
+                ]
+            ],
+            "exam": [
+                [
+                    "1900-01-01T08:30:00",
+                    "1900-01-01T10:30:00",
+                    "Fri",
+                    "",
+                    0
+                ]
+            ]
+        }
+    },
+    {
+        "term": "Fall 2022",
+        "status": "Closed",
+        "location": "Guelph",
+        "faculty": "R. Chaturvedi",
+        "credits": 0.5,
+        "academic_level": "Undergraduate",
+        "spots": {
+            "availability": 0,
+            "capacity": 33
+        },
+        "section": {
+            "full": "CIS*1300*0106 (7170) Programming",
+            "course": "CIS*1300",
+            "section_num": "0106",
+            "course_name": "Programming"
+        },
+        "meeting": {
+            "lec": [
+                [
+                    "1900-01-01T14:30:00",
+                    "1900-01-01T15:50:00",
+                    "Tues",
+                    "ROZH",
+                    101
+                ],
+                [
+                    "1900-01-01T14:30:00",
+                    "1900-01-01T15:50:00",
+                    "Thur",
+                    "ROZH",
+                    101
+                ]
+            ],
+            "lab": [
+                [
+                    "1900-01-01T08:30:00",
+                    "1900-01-01T10:20:00",
+                    "Tues",
+                    "REYN",
+                    2
+                ]
+            ],
+            "exam": [
+                [
+                    "1900-01-01T08:30:00",
+                    "1900-01-01T10:30:00",
+                    "Fri",
+                    "",
+                    0
+                ]
+            ]
+        }
+    },
+    {
+        "term": "Fall 2022",
+        "status": "Closed",
+        "location": "Guelph",
+        "faculty": "R. Chaturvedi",
+        "credits": 0.5,
+        "academic_level": "Undergraduate",
+        "spots": {
+            "availability": 0,
+            "capacity": 33
+        },
+        "section": {
+            "full": "CIS*1300*0107 (7171) Programming",
+            "course": "CIS*1300",
+            "section_num": "0107",
+            "course_name": "Programming"
+        },
+        "meeting": {
+            "lec": [
+                [
+                    "1900-01-01T14:30:00",
+                    "1900-01-01T15:50:00",
+                    "Tues",
+                    "ROZH",
+                    101
+                ],
+                [
+                    "1900-01-01T14:30:00",
+                    "1900-01-01T15:50:00",
+                    "Thur",
+                    "ROZH",
+                    101
+                ]
+            ],
+            "lab": [
+                [
+                    "1900-01-01T11:30:00",
+                    "1900-01-01T13:20:00",
+                    "Wed",
+                    "REYN",
+                    2
+                ]
+            ],
+            "exam": [
+                [
+                    "1900-01-01T08:30:00",
+                    "1900-01-01T10:30:00",
+                    "Fri",
+                    "",
+                    0
+                ]
+            ]
+        }
+    },
+    {
+        "term": "Fall 2022",
+        "status": "Closed",
+        "location": "Guelph",
+        "faculty": "R. Chaturvedi",
+        "credits": 0.5,
+        "academic_level": "Undergraduate",
+        "spots": {
+            "availability": 0,
+            "capacity": 33
+        },
+        "section": {
+            "full": "CIS*1300*0108 (7172) Programming",
+            "course": "CIS*1300",
+            "section_num": "0108",
+            "course_name": "Programming"
+        },
+        "meeting": {
+            "lec": [
+                [
+                    "1900-01-01T14:30:00",
+                    "1900-01-01T15:50:00",
+                    "Tues",
+                    "ROZH",
+                    101
+                ],
+                [
+                    "1900-01-01T14:30:00",
+                    "1900-01-01T15:50:00",
+                    "Thur",
+                    "ROZH",
+                    101
+                ]
+            ],
+            "lab": [
+                [
+                    "1900-01-01T08:30:00",
+                    "1900-01-01T10:20:00",
+                    "Thur",
+                    "REYN",
+                    2
+                ]
+            ],
+            "exam": [
+                [
+                    "1900-01-01T08:30:00",
+                    "1900-01-01T10:30:00",
+                    "Fri",
+                    "",
+                    0
+                ]
+            ]
+        }
+    },
+    {
+        "term": "Fall 2022",
+        "status": "Closed",
+        "location": "Guelph",
+        "faculty": "R. Chaturvedi",
+        "credits": 0.5,
+        "academic_level": "Undergraduate",
+        "spots": {
+            "availability": 0,
+            "capacity": 33
+        },
+        "section": {
+            "full": "CIS*1300*0109 (7173) Programming",
+            "course": "CIS*1300",
+            "section_num": "0109",
+            "course_name": "Programming"
+        },
+        "meeting": {
+            "lec": [
+                [
+                    "1900-01-01T14:30:00",
+                    "1900-01-01T15:50:00",
+                    "Tues",
+                    "ROZH",
+                    101
+                ],
+                [
+                    "1900-01-01T14:30:00",
+                    "1900-01-01T15:50:00",
+                    "Thur",
+                    "ROZH",
+                    101
+                ]
+            ],
+            "lab": [
+                [
+                    "1900-01-01T14:30:00",
+                    "1900-01-01T16:20:00",
+                    "Wed",
+                    "REYN",
+                    2
+                ]
+            ],
+            "exam": [
+                [
+                    "1900-01-01T08:30:00",
+                    "1900-01-01T10:30:00",
+                    "Fri",
+                    "",
+                    0
+                ]
+            ]
+        }
+    },
+    {
+        "term": "Fall 2022",
+        "status": "Closed",
+        "location": "Guelph",
+        "faculty": "R. Chaturvedi",
+        "credits": 0.5,
+        "academic_level": "Undergraduate",
+        "spots": {
+            "availability": 0,
+            "capacity": 33
+        },
+        "section": {
+            "full": "CIS*1300*0110 (7174) Programming",
+            "course": "CIS*1300",
+            "section_num": "0110",
+            "course_name": "Programming"
+        },
+        "meeting": {
+            "lec": [
+                [
+                    "1900-01-01T14:30:00",
+                    "1900-01-01T15:50:00",
+                    "Tues",
+                    "ROZH",
+                    101
+                ],
+                [
+                    "1900-01-01T14:30:00",
+                    "1900-01-01T15:50:00",
+                    "Thur",
+                    "ROZH",
+                    101
+                ]
+            ],
+            "lab": [
+                [
+                    "1900-01-01T08:30:00",
+                    "1900-01-01T10:20:00",
+                    "Wed",
+                    "REYN",
+                    2
+                ]
+            ],
+            "exam": [
+                [
+                    "1900-01-01T08:30:00",
+                    "1900-01-01T10:30:00",
+                    "Fri",
+                    "",
+                    0
+                ]
+            ]
+        }
+    },
+    {
+        "term": "Fall 2022",
+        "status": "Closed",
+        "location": "Guelph",
+        "faculty": "TBA  TBA",
+        "credits": 0.5,
+        "academic_level": "Undergraduate",
+        "spots": {
+            "availability": 0,
+            "capacity": 20
+        },
+        "section": {
+            "full": "CIS*1500*0101 (7175) Introduction to Programming",
+            "course": "CIS*1500",
+            "section_num": "0101",
+            "course_name": "Introduction to Programming"
+        },
+        "meeting": {
+            "lec": [
+                [
+                    "1900-01-01T10:00:00",
+                    "1900-01-01T11:20:00",
+                    "Tues",
+                    "THRN",
+                    1200
+                ],
+                [
+                    "1900-01-01T10:00:00",
+                    "1900-01-01T11:20:00",
+                    "Thur",
+                    "THRN",
+                    1200
+                ]
+            ],
+            "lab": [
+                [
+                    "1900-01-01T09:30:00",
+                    "1900-01-01T10:20:00",
+                    "Wed",
+                    "",
+                    0
+                ]
+            ],
+            "exam": [
+                [
+                    "1900-01-01T11:30:00",
+                    "1900-01-01T13:30:00",
+                    "Thur",
+                    "",
+                    0
+                ]
+            ]
+        }
+    },
+    {
+        "term": "Fall 2022",
+        "status": "Closed",
+        "location": "Guelph",
+        "faculty": "TBA  TBA",
+        "credits": 0.5,
+        "academic_level": "Undergraduate",
+        "spots": {
+            "availability": 0,
+            "capacity": 20
+        },
+        "section": {
+            "full": "CIS*1500*0102 (7176) Introduction to Programming",
+            "course": "CIS*1500",
+            "section_num": "0102",
+            "course_name": "Introduction to Programming"
+        },
+        "meeting": {
+            "lec": [
+                [
+                    "1900-01-01T10:00:00",
+                    "1900-01-01T11:20:00",
+                    "Tues",
+                    "THRN",
+                    1200
+                ],
+                [
+                    "1900-01-01T10:00:00",
+                    "1900-01-01T11:20:00",
+                    "Thur",
+                    "THRN",
+                    1200
+                ]
+            ],
+            "lab": [
+                [
+                    "1900-01-01T11:30:00",
+                    "1900-01-01T12:20:00",
+                    "Wed",
+                    "",
+                    0
+                ]
+            ],
+            "exam": [
+                [
+                    "1900-01-01T11:30:00",
+                    "1900-01-01T13:30:00",
+                    "Thur",
+                    "",
+                    0
+                ]
+            ]
+        }
+    },
+    {
+        "term": "Fall 2022",
+        "status": "Closed",
+        "location": "Guelph",
+        "faculty": "TBA  TBA",
+        "credits": 0.5,
+        "academic_level": "Undergraduate",
+        "spots": {
+            "availability": 0,
+            "capacity": 20
+        },
+        "section": {
+            "full": "CIS*1500*0103 (7177) Introduction to Programming",
+            "course": "CIS*1500",
+            "section_num": "0103",
+            "course_name": "Introduction to Programming"
+        },
+        "meeting": {
+            "lec": [
+                [
+                    "1900-01-01T10:00:00",
+                    "1900-01-01T11:20:00",
+                    "Tues",
+                    "THRN",
+                    1200
+                ],
+                [
+                    "1900-01-01T10:00:00",
+                    "1900-01-01T11:20:00",
+                    "Thur",
+                    "THRN",
+                    1200
+                ]
+            ],
+            "lab": [
+                [
+                    "1900-01-01T10:30:00",
+                    "1900-01-01T11:20:00",
+                    "Wed",
+                    "",
+                    0
+                ]
+            ],
+            "exam": [
+                [
+                    "1900-01-01T11:30:00",
+                    "1900-01-01T13:30:00",
+                    "Thur",
+                    "",
+                    0
+                ]
+            ]
+        }
+    },
+    {
+        "term": "Fall 2022",
+        "status": "Closed",
+        "location": "Guelph",
+        "faculty": "TBA  TBA",
+        "credits": 0.5,
+        "academic_level": "Undergraduate",
+        "spots": {
+            "availability": 0,
+            "capacity": 20
+        },
+        "section": {
+            "full": "CIS*1500*0104 (7178) Introduction to Programming",
+            "course": "CIS*1500",
+            "section_num": "0104",
+            "course_name": "Introduction to Programming"
+        },
+        "meeting": {
+            "lec": [
+                [
+                    "1900-01-01T10:00:00",
+                    "1900-01-01T11:20:00",
+                    "Tues",
+                    "THRN",
+                    1200
+                ],
+                [
+                    "1900-01-01T10:00:00",
+                    "1900-01-01T11:20:00",
+                    "Thur",
+                    "THRN",
+                    1200
+                ]
+            ],
+            "lab": [
+                [
+                    "1900-01-01T15:30:00",
+                    "1900-01-01T16:20:00",
+                    "Wed",
+                    "",
+                    0
+                ]
+            ],
+            "exam": [
+                [
+                    "1900-01-01T11:30:00",
+                    "1900-01-01T13:30:00",
+                    "Thur",
+                    "",
+                    0
+                ]
+            ]
+        }
+    },
+    {
+        "term": "Fall 2022",
+        "status": "Closed",
+        "location": "Guelph",
+        "faculty": "TBA  TBA",
+        "credits": 0.5,
+        "academic_level": "Undergraduate",
+        "spots": {
+            "availability": 0,
+            "capacity": 20
+        },
+        "section": {
+            "full": "CIS*1500*0105 (7179) Introduction to Programming",
+            "course": "CIS*1500",
+            "section_num": "0105",
+            "course_name": "Introduction to Programming"
+        },
+        "meeting": {
+            "lec": [
+                [
+                    "1900-01-01T10:00:00",
+                    "1900-01-01T11:20:00",
+                    "Tues",
+                    "THRN",
+                    1200
+                ],
+                [
+                    "1900-01-01T10:00:00",
+                    "1900-01-01T11:20:00",
+                    "Thur",
+                    "THRN",
+                    1200
+                ]
+            ],
+            "lab": [
+                [
+                    "1900-01-01T12:30:00",
+                    "1900-01-01T13:20:00",
+                    "Mon",
+                    "",
+                    0
+                ]
+            ],
+            "exam": [
+                [
+                    "1900-01-01T11:30:00",
+                    "1900-01-01T13:30:00",
+                    "Thur",
+                    "",
+                    0
+                ]
+            ]
+        }
+    },
+    {
+        "term": "Fall 2022",
+        "status": "Closed",
+        "location": "Guelph",
+        "faculty": "TBA  TBA",
+        "credits": 0.5,
+        "academic_level": "Undergraduate",
+        "spots": {
+            "availability": 0,
+            "capacity": 20
+        },
+        "section": {
+            "full": "CIS*1500*0106 (7180) Introduction to Programming",
+            "course": "CIS*1500",
+            "section_num": "0106",
+            "course_name": "Introduction to Programming"
+        },
+        "meeting": {
+            "lec": [
+                [
+                    "1900-01-01T10:00:00",
+                    "1900-01-01T11:20:00",
+                    "Tues",
+                    "THRN",
+                    1200
+                ],
+                [
+                    "1900-01-01T10:00:00",
+                    "1900-01-01T11:20:00",
+                    "Thur",
+                    "THRN",
+                    1200
+                ]
+            ],
+            "lab": [
+                [
+                    "1900-01-01T16:30:00",
+                    "1900-01-01T17:20:00",
+                    "Mon",
+                    "",
+                    0
+                ]
+            ],
+            "exam": [
+                [
+                    "1900-01-01T11:30:00",
+                    "1900-01-01T13:30:00",
+                    "Thur",
+                    "",
+                    0
+                ]
+            ]
+        }
+    },
+    {
+        "term": "Fall 2022",
+        "status": "Closed",
+        "location": "Guelph",
+        "faculty": "TBA  TBA",
+        "credits": 0.5,
+        "academic_level": "Undergraduate",
+        "spots": {
+            "availability": 0,
+            "capacity": 20
+        },
+        "section": {
+            "full": "CIS*1500*0107 (7181) Introduction to Programming",
+            "course": "CIS*1500",
+            "section_num": "0107",
+            "course_name": "Introduction to Programming"
+        },
+        "meeting": {
+            "lec": [
+                [
+                    "1900-01-01T10:00:00",
+                    "1900-01-01T11:20:00",
+                    "Tues",
+                    "THRN",
+                    1200
+                ],
+                [
+                    "1900-01-01T10:00:00",
+                    "1900-01-01T11:20:00",
+                    "Thur",
+                    "THRN",
+                    1200
+                ]
+            ],
+            "lab": [
+                [
+                    "1900-01-01T13:30:00",
+                    "1900-01-01T14:20:00",
+                    "Mon",
+                    "",
+                    0
+                ]
+            ],
+            "exam": [
+                [
+                    "1900-01-01T11:30:00",
+                    "1900-01-01T13:30:00",
+                    "Thur",
+                    "",
+                    0
+                ]
+            ]
+        }
+    },
+    {
+        "term": "Fall 2022",
+        "status": "Closed",
+        "location": "Guelph",
+        "faculty": "TBA  TBA",
+        "credits": 0.5,
+        "academic_level": "Undergraduate",
+        "spots": {
+            "availability": 0,
+            "capacity": 20
+        },
+        "section": {
+            "full": "CIS*1500*0108 (7182) Introduction to Programming",
+            "course": "CIS*1500",
+            "section_num": "0108",
+            "course_name": "Introduction to Programming"
+        },
+        "meeting": {
+            "lec": [
+                [
+                    "1900-01-01T10:00:00",
+                    "1900-01-01T11:20:00",
+                    "Tues",
+                    "THRN",
+                    1200
+                ],
+                [
+                    "1900-01-01T10:00:00",
+                    "1900-01-01T11:20:00",
+                    "Thur",
+                    "THRN",
+                    1200
+                ]
+            ],
+            "lab": [
+                [
+                    "1900-01-01T11:30:00",
+                    "1900-01-01T12:20:00",
+                    "Mon",
+                    "",
+                    0
+                ]
+            ],
+            "exam": [
+                [
+                    "1900-01-01T11:30:00",
+                    "1900-01-01T13:30:00",
+                    "Thur",
+                    "",
+                    0
+                ]
+            ]
+        }
+    },
+    {
+        "term": "Fall 2022",
+        "status": "Closed",
+        "location": "Guelph",
+        "faculty": "TBA  TBA",
+        "credits": 0.5,
+        "academic_level": "Undergraduate",
+        "spots": {
+            "availability": 0,
+            "capacity": 20
+        },
+        "section": {
+            "full": "CIS*1500*0109 (7183) Introduction to Programming",
+            "course": "CIS*1500",
+            "section_num": "0109",
+            "course_name": "Introduction to Programming"
+        },
+        "meeting": {
+            "lec": [
+                [
+                    "1900-01-01T10:00:00",
+                    "1900-01-01T11:20:00",
+                    "Tues",
+                    "THRN",
+                    1200
+                ],
+                [
+                    "1900-01-01T10:00:00",
+                    "1900-01-01T11:20:00",
+                    "Thur",
+                    "THRN",
+                    1200
+                ]
+            ],
+            "lab": [
+                [
+                    "1900-01-01T12:30:00",
+                    "1900-01-01T13:20:00",
+                    "Wed",
+                    "",
+                    0
+                ]
+            ],
+            "exam": [
+                [
+                    "1900-01-01T11:30:00",
+                    "1900-01-01T13:30:00",
+                    "Thur",
+                    "",
+                    0
+                ]
+            ]
+        }
+    },
+    {
+        "term": "Fall 2022",
+        "status": "Closed",
+        "location": "Guelph",
+        "faculty": "TBA  TBA",
+        "credits": 0.5,
+        "academic_level": "Undergraduate",
+        "spots": {
+            "availability": 0,
+            "capacity": 20
+        },
+        "section": {
+            "full": "CIS*1500*0110 (7184) Introduction to Programming",
+            "course": "CIS*1500",
+            "section_num": "0110",
+            "course_name": "Introduction to Programming"
+        },
+        "meeting": {
+            "lec": [
+                [
+                    "1900-01-01T10:00:00",
+                    "1900-01-01T11:20:00",
+                    "Tues",
+                    "THRN",
+                    1200
+                ],
+                [
+                    "1900-01-01T10:00:00",
+                    "1900-01-01T11:20:00",
+                    "Thur",
+                    "THRN",
+                    1200
+                ]
+            ],
+            "lab": [
+                [
+                    "1900-01-01T15:30:00",
+                    "1900-01-01T16:20:00",
+                    "Mon",
+                    "",
+                    0
+                ]
+            ],
+            "exam": [
+                [
+                    "1900-01-01T11:30:00",
+                    "1900-01-01T13:30:00",
+                    "Thur",
+                    "",
+                    0
+                ]
+            ]
+        }
+    },
+    {
+        "term": "Fall 2022",
+        "status": "Closed",
+        "location": "Guelph",
+        "faculty": "TBA  TBA",
+        "credits": 0.5,
+        "academic_level": "Undergraduate",
+        "spots": {
+            "availability": 0,
+            "capacity": 20
+        },
+        "section": {
+            "full": "CIS*1500*0111 (7185) Introduction to Programming",
+            "course": "CIS*1500",
+            "section_num": "0111",
+            "course_name": "Introduction to Programming"
+        },
+        "meeting": {
+            "lec": [
+                [
+                    "1900-01-01T10:00:00",
+                    "1900-01-01T11:20:00",
+                    "Tues",
+                    "THRN",
+                    1200
+                ],
+                [
+                    "1900-01-01T10:00:00",
+                    "1900-01-01T11:20:00",
+                    "Thur",
+                    "THRN",
+                    1200
+                ]
+            ],
+            "lab": [
+                [
+                    "1900-01-01T13:30:00",
+                    "1900-01-01T14:20:00",
+                    "Wed",
+                    "",
+                    0
+                ]
+            ],
+            "exam": [
+                [
+                    "1900-01-01T11:30:00",
+                    "1900-01-01T13:30:00",
+                    "Thur",
+                    "",
+                    0
+                ]
+            ]
+        }
+    },
+    {
+        "term": "Fall 2022",
+        "status": "Closed",
+        "location": "Guelph",
+        "faculty": "TBA  TBA",
+        "credits": 0.5,
+        "academic_level": "Undergraduate",
+        "spots": {
+            "availability": 0,
+            "capacity": 20
+        },
+        "section": {
+            "full": "CIS*1500*0112 (7186) Introduction to Programming",
+            "course": "CIS*1500",
+            "section_num": "0112",
+            "course_name": "Introduction to Programming"
+        },
+        "meeting": {
+            "lec": [
+                [
+                    "1900-01-01T10:00:00",
+                    "1900-01-01T11:20:00",
+                    "Tues",
+                    "THRN",
+                    1200
+                ],
+                [
+                    "1900-01-01T10:00:00",
+                    "1900-01-01T11:20:00",
+                    "Thur",
+                    "THRN",
+                    1200
+                ]
+            ],
+            "lab": [
+                [
+                    "1900-01-01T08:30:00",
+                    "1900-01-01T09:20:00",
+                    "Wed",
+                    "",
+                    0
+                ]
+            ],
+            "exam": [
+                [
+                    "1900-01-01T11:30:00",
+                    "1900-01-01T13:30:00",
+                    "Thur",
+                    "",
+                    0
+                ]
+            ]
+        }
+    },
+    {
+        "term": "Fall 2022",
+        "status": "Closed",
+        "location": "Guelph",
+        "faculty": "TBA  TBA",
+        "credits": 0.5,
+        "academic_level": "Undergraduate",
+        "spots": {
+            "availability": 0,
+            "capacity": 20
+        },
+        "section": {
+            "full": "CIS*1500*0113 (7187) Introduction to Programming",
+            "course": "CIS*1500",
+            "section_num": "0113",
+            "course_name": "Introduction to Programming"
+        },
+        "meeting": {
+            "lec": [
+                [
+                    "1900-01-01T10:00:00",
+                    "1900-01-01T11:20:00",
+                    "Tues",
+                    "THRN",
+                    1200
+                ],
+                [
+                    "1900-01-01T10:00:00",
+                    "1900-01-01T11:20:00",
+                    "Thur",
+                    "THRN",
+                    1200
+                ]
+            ],
+            "lab": [
+                [
+                    "1900-01-01T16:30:00",
+                    "1900-01-01T17:20:00",
+                    "Wed",
+                    "",
+                    0
+                ]
+            ],
+            "exam": [
+                [
+                    "1900-01-01T11:30:00",
+                    "1900-01-01T13:30:00",
+                    "Thur",
+                    "",
+                    0
+                ]
+            ]
+        }
+    },
+    {
+        "term": "Fall 2022",
+        "status": "Closed",
+        "location": "Guelph",
+        "faculty": "P. Matsakis",
+        "credits": 0.5,
+        "academic_level": "Undergraduate",
+        "spots": {
+            "availability": 0,
+            "capacity": 29
+        },
+        "section": {
+            "full": "CIS*1910*0101 (7188) Discrete Structures in Comp I",
+            "course": "CIS*1910",
+            "section_num": "0101",
+            "course_name": "Discrete Structures in Comp I"
+        },
+        "meeting": {
+            "lec": [
+                [
+                    "1900-01-01T13:00:00",
+                    "1900-01-01T14:20:00",
+                    "Tues",
+                    "ROZH",
+                    101
+                ],
+                [
+                    "1900-01-01T13:00:00",
+                    "1900-01-01T14:20:00",
+                    "Thur",
+                    "ROZH",
+                    101
+                ]
+            ],
+            "lab": [
+                [
+                    "1900-01-01T11:30:00",
+                    "1900-01-01T13:20:00",
+                    "Mon",
+                    "MCKN",
+                    318
+                ]
+            ],
+            "exam": [
+                [
+                    "1900-01-01T08:30:00",
+                    "1900-01-01T10:30:00",
+                    "Mon",
+                    "",
+                    0
+                ]
+            ]
+        }
+    },
+    {
+        "term": "Fall 2022",
+        "status": "Closed",
+        "location": "Guelph",
+        "faculty": "P. Matsakis",
+        "credits": 0.5,
+        "academic_level": "Undergraduate",
+        "spots": {
+            "availability": 0,
+            "capacity": 29
+        },
+        "section": {
+            "full": "CIS*1910*0102 (7189) Discrete Structures in Comp I",
+            "course": "CIS*1910",
+            "section_num": "0102",
+            "course_name": "Discrete Structures in Comp I"
+        },
+        "meeting": {
+            "lec": [
+                [
+                    "1900-01-01T13:00:00",
+                    "1900-01-01T14:20:00",
+                    "Tues",
+                    "ROZH",
+                    101
+                ],
+                [
+                    "1900-01-01T13:00:00",
+                    "1900-01-01T14:20:00",
+                    "Thur",
+                    "ROZH",
+                    101
+                ]
+            ],
+            "lab": [
+                [
+                    "1900-01-01T19:00:00",
+                    "1900-01-01T20:50:00",
+                    "Mon",
+                    "MCKN",
+                    235
+                ]
+            ],
+            "exam": [
+                [
+                    "1900-01-01T08:30:00",
+                    "1900-01-01T10:30:00",
+                    "Mon",
+                    "",
+                    0
+                ]
+            ]
+        }
+    },
+    {
+        "term": "Fall 2022",
+        "status": "Closed",
+        "location": "Guelph",
+        "faculty": "P. Matsakis",
+        "credits": 0.5,
+        "academic_level": "Undergraduate",
+        "spots": {
+            "availability": 0,
+            "capacity": 29
+        },
+        "section": {
+            "full": "CIS*1910*0103 (7190) Discrete Structures in Comp I",
+            "course": "CIS*1910",
+            "section_num": "0103",
+            "course_name": "Discrete Structures in Comp I"
+        },
+        "meeting": {
+            "lec": [
+                [
+                    "1900-01-01T13:00:00",
+                    "1900-01-01T14:20:00",
+                    "Tues",
+                    "ROZH",
+                    101
+                ],
+                [
+                    "1900-01-01T13:00:00",
+                    "1900-01-01T14:20:00",
+                    "Thur",
+                    "ROZH",
+                    101
+                ]
+            ],
+            "lab": [
+                [
+                    "1900-01-01T19:00:00",
+                    "1900-01-01T20:50:00",
+                    "Tues",
+                    "MCKN",
+                    235
+                ]
+            ],
+            "exam": [
+                [
+                    "1900-01-01T08:30:00",
+                    "1900-01-01T10:30:00",
+                    "Mon",
+                    "",
+                    0
+                ]
+            ]
+        }
+    },
+    {
+        "term": "Fall 2022",
+        "status": "Closed",
+        "location": "Guelph",
+        "faculty": "P. Matsakis",
+        "credits": 0.5,
+        "academic_level": "Undergraduate",
+        "spots": {
+            "availability": 0,
+            "capacity": 29
+        },
+        "section": {
+            "full": "CIS*1910*0104 (7191) Discrete Structures in Comp I",
+            "course": "CIS*1910",
+            "section_num": "0104",
+            "course_name": "Discrete Structures in Comp I"
+        },
+        "meeting": {
+            "lec": [
+                [
+                    "1900-01-01T13:00:00",
+                    "1900-01-01T14:20:00",
+                    "Tues",
+                    "ROZH",
+                    101
+                ],
+                [
+                    "1900-01-01T13:00:00",
+                    "1900-01-01T14:20:00",
+                    "Thur",
+                    "ROZH",
+                    101
+                ]
+            ],
+            "lab": [
+                [
+                    "1900-01-01T14:30:00",
+                    "1900-01-01T16:20:00",
+                    "Mon",
+                    "MCKN",
+                    234
+                ]
+            ],
+            "exam": [
+                [
+                    "1900-01-01T08:30:00",
+                    "1900-01-01T10:30:00",
+                    "Mon",
+                    "",
+                    0
+                ]
+            ]
+        }
+    },
+    {
+        "term": "Fall 2022",
+        "status": "Closed",
+        "location": "Guelph",
+        "faculty": "P. Matsakis",
+        "credits": 0.5,
+        "academic_level": "Undergraduate",
+        "spots": {
+            "availability": 0,
+            "capacity": 29
+        },
+        "section": {
+            "full": "CIS*1910*0105 (7192) Discrete Structures in Comp I",
+            "course": "CIS*1910",
+            "section_num": "0105",
+            "course_name": "Discrete Structures in Comp I"
+        },
+        "meeting": {
+            "lec": [
+                [
+                    "1900-01-01T13:00:00",
+                    "1900-01-01T14:20:00",
+                    "Tues",
+                    "ROZH",
+                    101
+                ],
+                [
+                    "1900-01-01T13:00:00",
+                    "1900-01-01T14:20:00",
+                    "Thur",
+                    "ROZH",
+                    101
+                ]
+            ],
+            "lab": [
+                [
+                    "1900-01-01T12:30:00",
+                    "1900-01-01T14:20:00",
+                    "Wed",
+                    "MCKN",
+                    235
+                ]
+            ],
+            "exam": [
+                [
+                    "1900-01-01T08:30:00",
+                    "1900-01-01T10:30:00",
+                    "Mon",
+                    "",
+                    0
+                ]
+            ]
+        }
+    },
+    {
+        "term": "Fall 2022",
+        "status": "Closed",
+        "location": "Guelph",
+        "faculty": "P. Matsakis",
+        "credits": 0.5,
+        "academic_level": "Undergraduate",
+        "spots": {
+            "availability": 0,
+            "capacity": 29
+        },
+        "section": {
+            "full": "CIS*1910*0106 (7193) Discrete Structures in Comp I",
+            "course": "CIS*1910",
+            "section_num": "0106",
+            "course_name": "Discrete Structures in Comp I"
+        },
+        "meeting": {
+            "lec": [
+                [
+                    "1900-01-01T13:00:00",
+                    "1900-01-01T14:20:00",
+                    "Tues",
+                    "ROZH",
+                    101
+                ],
+                [
+                    "1900-01-01T13:00:00",
+                    "1900-01-01T14:20:00",
+                    "Thur",
+                    "ROZH",
+                    101
+                ]
+            ],
+            "lab": [
+                [
+                    "1900-01-01T12:30:00",
+                    "1900-01-01T14:20:00",
+                    "Fri",
+                    "MCKN",
+                    235
+                ]
+            ],
+            "exam": [
+                [
+                    "1900-01-01T08:30:00",
+                    "1900-01-01T10:30:00",
+                    "Mon",
+                    "",
+                    0
+                ]
+            ]
+        }
+    },
+    {
+        "term": "Fall 2022",
+        "status": "Closed",
+        "location": "Guelph",
+        "faculty": "P. Matsakis",
+        "credits": 0.5,
+        "academic_level": "Undergraduate",
+        "spots": {
+            "availability": 0,
+            "capacity": 29
+        },
+        "section": {
+            "full": "CIS*1910*0107 (7194) Discrete Structures in Comp I",
+            "course": "CIS*1910",
+            "section_num": "0107",
+            "course_name": "Discrete Structures in Comp I"
+        },
+        "meeting": {
+            "lec": [
+                [
+                    "1900-01-01T13:00:00",
+                    "1900-01-01T14:20:00",
+                    "Tues",
+                    "ROZH",
+                    101
+                ],
+                [
+                    "1900-01-01T13:00:00",
+                    "1900-01-01T14:20:00",
+                    "Thur",
+                    "ROZH",
+                    101
+                ]
+            ],
+            "lab": [
+                [
+                    "1900-01-01T14:30:00",
+                    "1900-01-01T16:20:00",
+                    "Fri",
+                    "MCKN",
+                    235
+                ]
+            ],
+            "exam": [
+                [
+                    "1900-01-01T08:30:00",
+                    "1900-01-01T10:30:00",
+                    "Mon",
+                    "",
+                    0
+                ]
+            ]
+        }
+    },
+    {
+        "term": "Fall 2022",
+        "status": "Closed",
+        "location": "Guelph",
+        "faculty": "P. Matsakis",
+        "credits": 0.5,
+        "academic_level": "Undergraduate",
+        "spots": {
+            "availability": 0,
+            "capacity": 29
+        },
+        "section": {
+            "full": "CIS*1910*0108 (7195) Discrete Structures in Comp I",
+            "course": "CIS*1910",
+            "section_num": "0108",
+            "course_name": "Discrete Structures in Comp I"
+        },
+        "meeting": {
+            "lec": [
+                [
+                    "1900-01-01T13:00:00",
+                    "1900-01-01T14:20:00",
+                    "Tues",
+                    "ROZH",
+                    101
+                ],
+                [
+                    "1900-01-01T13:00:00",
+                    "1900-01-01T14:20:00",
+                    "Thur",
+                    "ROZH",
+                    101
+                ]
+            ],
+            "lab": [
+                [
+                    "1900-01-01T19:00:00",
+                    "1900-01-01T20:50:00",
+                    "Thur",
+                    "MCKN",
+                    235
+                ]
+            ],
+            "exam": [
+                [
+                    "1900-01-01T08:30:00",
+                    "1900-01-01T10:30:00",
+                    "Mon",
+                    "",
+                    0
+                ]
+            ]
+        }
+    },
+    {
+        "term": "Fall 2022",
+        "status": "Closed",
+        "location": "Guelph",
+        "faculty": "P. Matsakis",
+        "credits": 0.5,
+        "academic_level": "Undergraduate",
+        "spots": {
+            "availability": 0,
+            "capacity": 29
+        },
+        "section": {
+            "full": "CIS*1910*0109 (9441) Discrete Structures in Comp I",
+            "course": "CIS*1910",
+            "section_num": "0109",
+            "course_name": "Discrete Structures in Comp I"
+        },
+        "meeting": {
+            "lec": [
+                [
+                    "1900-01-01T13:00:00",
+                    "1900-01-01T14:20:00",
+                    "Tues",
+                    "ROZH",
+                    101
+                ],
+                [
+                    "1900-01-01T13:00:00",
+                    "1900-01-01T14:20:00",
+                    "Thur",
+                    "ROZH",
+                    101
+                ]
+            ],
+            "lab": [
+                [
+                    "1900-01-01T19:00:00",
+                    "1900-01-01T20:50:00",
+                    "Wed",
+                    "MCKN",
+                    234
+                ]
+            ],
+            "exam": [
+                [
+                    "1900-01-01T08:30:00",
+                    "1900-01-01T10:30:00",
+                    "Mon",
+                    "",
+                    0
+                ]
+            ]
+        }
+    },
+    {
+        "term": "Fall 2022",
+        "status": "Closed",
+        "location": "Guelph",
+        "faculty": "P. Matsakis",
+        "credits": 0.5,
+        "academic_level": "Undergraduate",
+        "spots": {
+            "availability": 0,
+            "capacity": 29
+        },
+        "section": {
+            "full": "CIS*1910*0110 (9442) Discrete Structures in Comp I",
+            "course": "CIS*1910",
+            "section_num": "0110",
+            "course_name": "Discrete Structures in Comp I"
+        },
+        "meeting": {
+            "lec": [
+                [
+                    "1900-01-01T13:00:00",
+                    "1900-01-01T14:20:00",
+                    "Tues",
+                    "ROZH",
+                    101
+                ],
+                [
+                    "1900-01-01T13:00:00",
+                    "1900-01-01T14:20:00",
+                    "Thur",
+                    "ROZH",
+                    101
+                ]
+            ],
+            "lab": [
+                [
+                    "1900-01-01T14:30:00",
+                    "1900-01-01T16:20:00",
+                    "Wed",
+                    "MCKN",
+                    238
+                ]
+            ],
+            "exam": [
+                [
+                    "1900-01-01T08:30:00",
+                    "1900-01-01T10:30:00",
+                    "Mon",
+                    "",
+                    0
+                ]
+            ]
+        }
+    },
+    {
+        "term": "Fall 2022",
+        "status": "Closed",
+        "location": "Guelph",
+        "faculty": "G. Grewal",
+        "credits": 0.5,
+        "academic_level": "Undergraduate",
+        "spots": {
+            "availability": 0,
+            "capacity": 9
+        },
+        "section": {
+            "full": "CIS*2030*0101 (7196) Structure/Applicat - Microcomp",
+            "course": "CIS*2030",
+            "section_num": "0101",
+            "course_name": "Structure"
+        },
+        "meeting": {
+            "lec": [
+                [
+                    "1900-01-01T15:30:00",
+                    "1900-01-01T16:20:00",
+                    "Mon",
+                    "",
+                    0
+                ],
+                [
+                    "1900-01-01T15:30:00",
+                    "1900-01-01T16:20:00",
+                    "Wed",
+                    "",
+                    0
+                ],
+                [
+                    "1900-01-01T15:30:00",
+                    "1900-01-01T16:20:00",
+                    "Fri",
+                    "",
+                    0
+                ]
+            ],
+            "lab": [],
+            "exam": []
+        }
+    },
+    {
+        "term": "Fall 2022",
+        "status": "Closed",
+        "location": "Guelph",
+        "faculty": "G. Grewal",
+        "credits": 0.5,
+        "academic_level": "Undergraduate",
+        "spots": {
+            "availability": 0,
+            "capacity": 9
+        },
+        "section": {
+            "full": "CIS*2030*0102 (7197) Structure/Applicat - Microcomp",
+            "course": "CIS*2030",
+            "section_num": "0102",
+            "course_name": "Structure"
+        },
+        "meeting": {
+            "lec": [
+                [
+                    "1900-01-01T15:30:00",
+                    "1900-01-01T16:20:00",
+                    "Mon",
+                    "",
+                    0
+                ],
+                [
+                    "1900-01-01T15:30:00",
+                    "1900-01-01T16:20:00",
+                    "Wed",
+                    "",
+                    0
+                ],
+                [
+                    "1900-01-01T15:30:00",
+                    "1900-01-01T16:20:00",
+                    "Fri",
+                    "",
+                    0
+                ]
+            ],
+            "lab": [],
+            "exam": []
+        }
+    },
+    {
+        "term": "Fall 2022",
+        "status": "Closed",
+        "location": "Guelph",
+        "faculty": "G. Grewal",
+        "credits": 0.5,
+        "academic_level": "Undergraduate",
+        "spots": {
+            "availability": 0,
+            "capacity": 9
+        },
+        "section": {
+            "full": "CIS*2030*0103 (7198) Structure/Applicat - Microcomp",
+            "course": "CIS*2030",
+            "section_num": "0103",
+            "course_name": "Structure"
+        },
+        "meeting": {
+            "lec": [
+                [
+                    "1900-01-01T15:30:00",
+                    "1900-01-01T16:20:00",
+                    "Mon",
+                    "",
+                    0
+                ],
+                [
+                    "1900-01-01T15:30:00",
+                    "1900-01-01T16:20:00",
+                    "Wed",
+                    "",
+                    0
+                ],
+                [
+                    "1900-01-01T15:30:00",
+                    "1900-01-01T16:20:00",
+                    "Fri",
+                    "",
+                    0
+                ]
+            ],
+            "lab": [],
+            "exam": []
+        }
+    },
+    {
+        "term": "Fall 2022",
+        "status": "Closed",
+        "location": "Guelph",
+        "faculty": "G. Grewal",
+        "credits": 0.5,
+        "academic_level": "Undergraduate",
+        "spots": {
+            "availability": 0,
+            "capacity": 9
+        },
+        "section": {
+            "full": "CIS*2030*0104 (7199) Structure/Applicat - Microcomp",
+            "course": "CIS*2030",
+            "section_num": "0104",
+            "course_name": "Structure"
+        },
+        "meeting": {
+            "lec": [
+                [
+                    "1900-01-01T15:30:00",
+                    "1900-01-01T16:20:00",
+                    "Mon",
+                    "",
+                    0
+                ],
+                [
+                    "1900-01-01T15:30:00",
+                    "1900-01-01T16:20:00",
+                    "Wed",
+                    "",
+                    0
+                ],
+                [
+                    "1900-01-01T15:30:00",
+                    "1900-01-01T16:20:00",
+                    "Fri",
+                    "",
+                    0
+                ]
+            ],
+            "lab": [],
+            "exam": []
+        }
+    },
+    {
+        "term": "Fall 2022",
+        "status": "Closed",
+        "location": "Guelph",
+        "faculty": "G. Grewal",
+        "credits": 0.5,
+        "academic_level": "Undergraduate",
+        "spots": {
+            "availability": 0,
+            "capacity": 9
+        },
+        "section": {
+            "full": "CIS*2030*0105 (7200) Structure/Applicat - Microcomp",
+            "course": "CIS*2030",
+            "section_num": "0105",
+            "course_name": "Structure"
+        },
+        "meeting": {
+            "lec": [
+                [
+                    "1900-01-01T15:30:00",
+                    "1900-01-01T16:20:00",
+                    "Mon",
+                    "",
+                    0
+                ],
+                [
+                    "1900-01-01T15:30:00",
+                    "1900-01-01T16:20:00",
+                    "Wed",
+                    "",
+                    0
+                ],
+                [
+                    "1900-01-01T15:30:00",
+                    "1900-01-01T16:20:00",
+                    "Fri",
+                    "",
+                    0
+                ]
+            ],
+            "lab": [],
+            "exam": []
+        }
+    },
+    {
+        "term": "Fall 2022",
+        "status": "Closed",
+        "location": "Guelph",
+        "faculty": "G. Grewal",
+        "credits": 0.5,
+        "academic_level": "Undergraduate",
+        "spots": {
+            "availability": 0,
+            "capacity": 9
+        },
+        "section": {
+            "full": "CIS*2030*0106 (7201) Structure/Applicat - Microcomp",
+            "course": "CIS*2030",
+            "section_num": "0106",
+            "course_name": "Structure"
+        },
+        "meeting": {
+            "lec": [
+                [
+                    "1900-01-01T15:30:00",
+                    "1900-01-01T16:20:00",
+                    "Mon",
+                    "",
+                    0
+                ],
+                [
+                    "1900-01-01T15:30:00",
+                    "1900-01-01T16:20:00",
+                    "Wed",
+                    "",
+                    0
+                ],
+                [
+                    "1900-01-01T15:30:00",
+                    "1900-01-01T16:20:00",
+                    "Fri",
+                    "",
+                    0
+                ]
+            ],
+            "lab": [],
+            "exam": []
+        }
+    },
+    {
+        "term": "Fall 2022",
+        "status": "Closed",
+        "location": "Guelph",
+        "faculty": "G. Grewal",
+        "credits": 0.5,
+        "academic_level": "Undergraduate",
+        "spots": {
+            "availability": 0,
+            "capacity": 9
+        },
+        "section": {
+            "full": "CIS*2030*0107 (7202) Structure/Applicat - Microcomp",
+            "course": "CIS*2030",
+            "section_num": "0107",
+            "course_name": "Structure"
+        },
+        "meeting": {
+            "lec": [
+                [
+                    "1900-01-01T15:30:00",
+                    "1900-01-01T16:20:00",
+                    "Mon",
+                    "",
+                    0
+                ],
+                [
+                    "1900-01-01T15:30:00",
+                    "1900-01-01T16:20:00",
+                    "Wed",
+                    "",
+                    0
+                ],
+                [
+                    "1900-01-01T15:30:00",
+                    "1900-01-01T16:20:00",
+                    "Fri",
+                    "",
+                    0
+                ]
+            ],
+            "lab": [],
+            "exam": []
+        }
+    },
+    {
+        "term": "Fall 2022",
+        "status": "Closed",
+        "location": "Guelph",
+        "faculty": "G. Grewal",
+        "credits": 0.5,
+        "academic_level": "Undergraduate",
+        "spots": {
+            "availability": 0,
+            "capacity": 9
+        },
+        "section": {
+            "full": "CIS*2030*0108 (7203) Structure/Applicat - Microcomp",
+            "course": "CIS*2030",
+            "section_num": "0108",
+            "course_name": "Structure"
+        },
+        "meeting": {
+            "lec": [
+                [
+                    "1900-01-01T15:30:00",
+                    "1900-01-01T16:20:00",
+                    "Mon",
+                    "",
+                    0
+                ],
+                [
+                    "1900-01-01T15:30:00",
+                    "1900-01-01T16:20:00",
+                    "Wed",
+                    "",
+                    0
+                ],
+                [
+                    "1900-01-01T15:30:00",
+                    "1900-01-01T16:20:00",
+                    "Fri",
+                    "",
+                    0
+                ]
+            ],
+            "lab": [],
+            "exam": []
+        }
+    },
+    {
+        "term": "Fall 2022",
+        "status": "Closed",
+        "location": "Guelph",
+        "faculty": "G. Grewal",
+        "credits": 0.5,
+        "academic_level": "Undergraduate",
+        "spots": {
+            "availability": 0,
+            "capacity": 9
+        },
+        "section": {
+            "full": "CIS*2030*0109 (7204) Structure/Applicat - Microcomp",
+            "course": "CIS*2030",
+            "section_num": "0109",
+            "course_name": "Structure"
+        },
+        "meeting": {
+            "lec": [
+                [
+                    "1900-01-01T15:30:00",
+                    "1900-01-01T16:20:00",
+                    "Mon",
+                    "",
+                    0
+                ],
+                [
+                    "1900-01-01T15:30:00",
+                    "1900-01-01T16:20:00",
+                    "Wed",
+                    "",
+                    0
+                ],
+                [
+                    "1900-01-01T15:30:00",
+                    "1900-01-01T16:20:00",
+                    "Fri",
+                    "",
+                    0
+                ]
+            ],
+            "lab": [],
+            "exam": []
+        }
+    },
+    {
+        "term": "Fall 2022",
+        "status": "Closed",
+        "location": "Guelph",
+        "faculty": "G. Grewal",
+        "credits": 0.5,
+        "academic_level": "Undergraduate",
+        "spots": {
+            "availability": 0,
+            "capacity": 9
+        },
+        "section": {
+            "full": "CIS*2030*0110 (7205) Structure/Applicat - Microcomp",
+            "course": "CIS*2030",
+            "section_num": "0110",
+            "course_name": "Structure"
+        },
+        "meeting": {
+            "lec": [
+                [
+                    "1900-01-01T15:30:00",
+                    "1900-01-01T16:20:00",
+                    "Mon",
+                    "",
+                    0
+                ],
+                [
+                    "1900-01-01T15:30:00",
+                    "1900-01-01T16:20:00",
+                    "Wed",
+                    "",
+                    0
+                ],
+                [
+                    "1900-01-01T15:30:00",
+                    "1900-01-01T16:20:00",
+                    "Fri",
+                    "",
+                    0
+                ]
+            ],
+            "lab": [],
+            "exam": []
+        }
+    },
+    {
+        "term": "Fall 2022",
+        "status": "Closed",
+        "location": "Guelph",
+        "faculty": "G. Grewal",
+        "credits": 0.5,
+        "academic_level": "Undergraduate",
+        "spots": {
+            "availability": 0,
+            "capacity": 9
+        },
+        "section": {
+            "full": "CIS*2030*0201 (7206) Structure/Applicat - Microcomp",
+            "course": "CIS*2030",
+            "section_num": "0201",
+            "course_name": "Structure"
+        },
+        "meeting": {
+            "lec": [
+                [
+                    "1900-01-01T11:30:00",
+                    "1900-01-01T12:20:00",
+                    "Mon",
+                    "",
+                    0
+                ],
+                [
+                    "1900-01-01T11:30:00",
+                    "1900-01-01T12:20:00",
+                    "Wed",
+                    "",
+                    0
+                ],
+                [
+                    "1900-01-01T11:30:00",
+                    "1900-01-01T12:20:00",
+                    "Fri",
+                    "",
+                    0
+                ]
+            ],
+            "lab": [],
+            "exam": []
+        }
+    },
+    {
+        "term": "Fall 2022",
+        "status": "Closed",
+        "location": "Guelph",
+        "faculty": "G. Grewal",
+        "credits": 0.5,
+        "academic_level": "Undergraduate",
+        "spots": {
+            "availability": 0,
+            "capacity": 9
+        },
+        "section": {
+            "full": "CIS*2030*0202 (7207) Structure/Applicat - Microcomp",
+            "course": "CIS*2030",
+            "section_num": "0202",
+            "course_name": "Structure"
+        },
+        "meeting": {
+            "lec": [
+                [
+                    "1900-01-01T11:30:00",
+                    "1900-01-01T12:20:00",
+                    "Mon",
+                    "",
+                    0
+                ],
+                [
+                    "1900-01-01T11:30:00",
+                    "1900-01-01T12:20:00",
+                    "Wed",
+                    "",
+                    0
+                ],
+                [
+                    "1900-01-01T11:30:00",
+                    "1900-01-01T12:20:00",
+                    "Fri",
+                    "",
+                    0
+                ]
+            ],
+            "lab": [],
+            "exam": []
+        }
+    },
+    {
+        "term": "Fall 2022",
+        "status": "Closed",
+        "location": "Guelph",
+        "faculty": "G. Grewal",
+        "credits": 0.5,
+        "academic_level": "Undergraduate",
+        "spots": {
+            "availability": 0,
+            "capacity": 9
+        },
+        "section": {
+            "full": "CIS*2030*0203 (7208) Structure/Applicat - Microcomp",
+            "course": "CIS*2030",
+            "section_num": "0203",
+            "course_name": "Structure"
+        },
+        "meeting": {
+            "lec": [
+                [
+                    "1900-01-01T11:30:00",
+                    "1900-01-01T12:20:00",
+                    "Mon",
+                    "",
+                    0
+                ],
+                [
+                    "1900-01-01T11:30:00",
+                    "1900-01-01T12:20:00",
+                    "Wed",
+                    "",
+                    0
+                ],
+                [
+                    "1900-01-01T11:30:00",
+                    "1900-01-01T12:20:00",
+                    "Fri",
+                    "",
+                    0
+                ]
+            ],
+            "lab": [],
+            "exam": []
+        }
+    },
+    {
+        "term": "Fall 2022",
+        "status": "Closed",
+        "location": "Guelph",
+        "faculty": "G. Grewal",
+        "credits": 0.5,
+        "academic_level": "Undergraduate",
+        "spots": {
+            "availability": 0,
+            "capacity": 9
+        },
+        "section": {
+            "full": "CIS*2030*0204 (7209) Structure/Applicat - Microcomp",
+            "course": "CIS*2030",
+            "section_num": "0204",
+            "course_name": "Structure"
+        },
+        "meeting": {
+            "lec": [
+                [
+                    "1900-01-01T11:30:00",
+                    "1900-01-01T12:20:00",
+                    "Mon",
+                    "",
+                    0
+                ],
+                [
+                    "1900-01-01T11:30:00",
+                    "1900-01-01T12:20:00",
+                    "Wed",
+                    "",
+                    0
+                ],
+                [
+                    "1900-01-01T11:30:00",
+                    "1900-01-01T12:20:00",
+                    "Fri",
+                    "",
+                    0
+                ]
+            ],
+            "lab": [],
+            "exam": []
+        }
+    },
+    {
+        "term": "Fall 2022",
+        "status": "Closed",
+        "location": "Guelph",
+        "faculty": "G. Grewal",
+        "credits": 0.5,
+        "academic_level": "Undergraduate",
+        "spots": {
+            "availability": 0,
+            "capacity": 9
+        },
+        "section": {
+            "full": "CIS*2030*0205 (7210) Structure/Applicat - Microcomp",
+            "course": "CIS*2030",
+            "section_num": "0205",
+            "course_name": "Structure"
+        },
+        "meeting": {
+            "lec": [
+                [
+                    "1900-01-01T11:30:00",
+                    "1900-01-01T12:20:00",
+                    "Mon",
+                    "",
+                    0
+                ],
+                [
+                    "1900-01-01T11:30:00",
+                    "1900-01-01T12:20:00",
+                    "Wed",
+                    "",
+                    0
+                ],
+                [
+                    "1900-01-01T11:30:00",
+                    "1900-01-01T12:20:00",
+                    "Fri",
+                    "",
+                    0
+                ]
+            ],
+            "lab": [],
+            "exam": []
+        }
+    },
+    {
+        "term": "Fall 2022",
+        "status": "Closed",
+        "location": "Guelph",
+        "faculty": "G. Grewal",
+        "credits": 0.5,
+        "academic_level": "Undergraduate",
+        "spots": {
+            "availability": 0,
+            "capacity": 9
+        },
+        "section": {
+            "full": "CIS*2030*0206 (7211) Structure/Applicat - Microcomp",
+            "course": "CIS*2030",
+            "section_num": "0206",
+            "course_name": "Structure"
+        },
+        "meeting": {
+            "lec": [
+                [
+                    "1900-01-01T11:30:00",
+                    "1900-01-01T12:20:00",
+                    "Mon",
+                    "",
+                    0
+                ],
+                [
+                    "1900-01-01T11:30:00",
+                    "1900-01-01T12:20:00",
+                    "Wed",
+                    "",
+                    0
+                ],
+                [
+                    "1900-01-01T11:30:00",
+                    "1900-01-01T12:20:00",
+                    "Fri",
+                    "",
+                    0
+                ]
+            ],
+            "lab": [],
+            "exam": []
+        }
+    },
+    {
+        "term": "Fall 2022",
+        "status": "Closed",
+        "location": "Guelph",
+        "faculty": "G. Grewal",
+        "credits": 0.5,
+        "academic_level": "Undergraduate",
+        "spots": {
+            "availability": 0,
+            "capacity": 9
+        },
+        "section": {
+            "full": "CIS*2030*0207 (7212) Structure/Applicat - Microcomp",
+            "course": "CIS*2030",
+            "section_num": "0207",
+            "course_name": "Structure"
+        },
+        "meeting": {
+            "lec": [
+                [
+                    "1900-01-01T11:30:00",
+                    "1900-01-01T12:20:00",
+                    "Mon",
+                    "",
+                    0
+                ],
+                [
+                    "1900-01-01T11:30:00",
+                    "1900-01-01T12:20:00",
+                    "Wed",
+                    "",
+                    0
+                ],
+                [
+                    "1900-01-01T11:30:00",
+                    "1900-01-01T12:20:00",
+                    "Fri",
+                    "",
+                    0
+                ]
+            ],
+            "lab": [],
+            "exam": []
+        }
+    },
+    {
+        "term": "Fall 2022",
+        "status": "Closed",
+        "location": "Guelph",
+        "faculty": "G. Grewal",
+        "credits": 0.5,
+        "academic_level": "Undergraduate",
+        "spots": {
+            "availability": 0,
+            "capacity": 9
+        },
+        "section": {
+            "full": "CIS*2030*0208 (7213) Structure/Applicat - Microcomp",
+            "course": "CIS*2030",
+            "section_num": "0208",
+            "course_name": "Structure"
+        },
+        "meeting": {
+            "lec": [
+                [
+                    "1900-01-01T11:30:00",
+                    "1900-01-01T12:20:00",
+                    "Mon",
+                    "",
+                    0
+                ],
+                [
+                    "1900-01-01T11:30:00",
+                    "1900-01-01T12:20:00",
+                    "Wed",
+                    "",
+                    0
+                ],
+                [
+                    "1900-01-01T11:30:00",
+                    "1900-01-01T12:20:00",
+                    "Fri",
+                    "",
+                    0
+                ]
+            ],
+            "lab": [],
+            "exam": []
+        }
+    },
+    {
+        "term": "Fall 2022",
+        "status": "Closed",
+        "location": "Guelph",
+        "faculty": "G. Grewal",
+        "credits": 0.5,
+        "academic_level": "Undergraduate",
+        "spots": {
+            "availability": 0,
+            "capacity": 9
+        },
+        "section": {
+            "full": "CIS*2030*0209 (7214) Structure/Applicat - Microcomp",
+            "course": "CIS*2030",
+            "section_num": "0209",
+            "course_name": "Structure"
+        },
+        "meeting": {
+            "lec": [
+                [
+                    "1900-01-01T11:30:00",
+                    "1900-01-01T12:20:00",
+                    "Mon",
+                    "",
+                    0
+                ],
+                [
+                    "1900-01-01T11:30:00",
+                    "1900-01-01T12:20:00",
+                    "Wed",
+                    "",
+                    0
+                ],
+                [
+                    "1900-01-01T11:30:00",
+                    "1900-01-01T12:20:00",
+                    "Fri",
+                    "",
+                    0
+                ]
+            ],
+            "lab": [],
+            "exam": []
+        }
+    },
+    {
+        "term": "Fall 2022",
+        "status": "Closed",
+        "location": "Guelph",
+        "faculty": "G. Grewal",
+        "credits": 0.5,
+        "academic_level": "Undergraduate",
+        "spots": {
+            "availability": 0,
+            "capacity": 9
+        },
+        "section": {
+            "full": "CIS*2030*0210 (7215) Structure/Applicat - Microcomp",
+            "course": "CIS*2030",
+            "section_num": "0210",
+            "course_name": "Structure"
+        },
+        "meeting": {
+            "lec": [
+                [
+                    "1900-01-01T11:30:00",
+                    "1900-01-01T12:20:00",
+                    "Mon",
+                    "",
+                    0
+                ],
+                [
+                    "1900-01-01T11:30:00",
+                    "1900-01-01T12:20:00",
+                    "Wed",
+                    "",
+                    0
+                ],
+                [
+                    "1900-01-01T11:30:00",
+                    "1900-01-01T12:20:00",
+                    "Fri",
+                    "",
+                    0
+                ]
+            ],
+            "lab": [],
+            "exam": []
+        }
+    },
+    {
+        "term": "Fall 2022",
+        "status": "Closed",
+        "location": "Guelph",
+        "faculty": "J. McCuaig",
+        "credits": 0.5,
+        "academic_level": "Undergraduate",
+        "spots": {
+            "availability": 0,
+            "capacity": 17
+        },
+        "section": {
+            "full": "CIS*2430*0101 (7216) Object Oriented Programming",
+            "course": "CIS*2430",
+            "section_num": "0101",
+            "course_name": "Object Oriented Programming"
+        },
+        "meeting": {
+            "lec": [
+                [
+                    "1900-01-01T16:30:00",
+                    "1900-01-01T17:20:00",
+                    "Mon",
+                    "",
+                    0
+                ],
+                [
+                    "1900-01-01T16:30:00",
+                    "1900-01-01T17:20:00",
+                    "Wed",
+                    "",
+                    0
+                ],
+                [
+                    "1900-01-01T16:30:00",
+                    "1900-01-01T17:20:00",
+                    "Fri",
+                    "",
+                    0
+                ]
+            ],
+            "lab": [
+                [
+                    "1900-01-01T08:30:00",
+                    "1900-01-01T10:20:00",
+                    "Wed",
+                    "",
+                    0
+                ]
+            ],
+            "exam": [
+                [
+                    "1900-01-01T08:30:00",
+                    "1900-01-01T10:30:00",
+                    "Mon",
+                    "",
+                    0
+                ]
+            ]
+        }
+    },
+    {
+        "term": "Fall 2022",
+        "status": "Closed",
+        "location": "Guelph",
+        "faculty": "J. McCuaig",
+        "credits": 0.5,
+        "academic_level": "Undergraduate",
+        "spots": {
+            "availability": 0,
+            "capacity": 17
+        },
+        "section": {
+            "full": "CIS*2430*0102 (7217) Object Oriented Programming",
+            "course": "CIS*2430",
+            "section_num": "0102",
+            "course_name": "Object Oriented Programming"
+        },
+        "meeting": {
+            "lec": [
+                [
+                    "1900-01-01T16:30:00",
+                    "1900-01-01T17:20:00",
+                    "Mon",
+                    "",
+                    0
+                ],
+                [
+                    "1900-01-01T16:30:00",
+                    "1900-01-01T17:20:00",
+                    "Wed",
+                    "",
+                    0
+                ],
+                [
+                    "1900-01-01T16:30:00",
+                    "1900-01-01T17:20:00",
+                    "Fri",
+                    "",
+                    0
+                ]
+            ],
+            "lab": [
+                [
+                    "1900-01-01T11:30:00",
+                    "1900-01-01T13:20:00",
+                    "Tues",
+                    "",
+                    0
+                ]
+            ],
+            "exam": [
+                [
+                    "1900-01-01T08:30:00",
+                    "1900-01-01T10:30:00",
+                    "Mon",
+                    "",
+                    0
+                ]
+            ]
+        }
+    },
+    {
+        "term": "Fall 2022",
+        "status": "Closed",
+        "location": "Guelph",
+        "faculty": "J. McCuaig",
+        "credits": 0.5,
+        "academic_level": "Undergraduate",
+        "spots": {
+            "availability": 0,
+            "capacity": 17
+        },
+        "section": {
+            "full": "CIS*2430*0103 (7218) Object Oriented Programming",
+            "course": "CIS*2430",
+            "section_num": "0103",
+            "course_name": "Object Oriented Programming"
+        },
+        "meeting": {
+            "lec": [
+                [
+                    "1900-01-01T16:30:00",
+                    "1900-01-01T17:20:00",
+                    "Mon",
+                    "",
+                    0
+                ],
+                [
+                    "1900-01-01T16:30:00",
+                    "1900-01-01T17:20:00",
+                    "Wed",
+                    "",
+                    0
+                ],
+                [
+                    "1900-01-01T16:30:00",
+                    "1900-01-01T17:20:00",
+                    "Fri",
+                    "",
+                    0
+                ]
+            ],
+            "lab": [
+                [
+                    "1900-01-01T12:30:00",
+                    "1900-01-01T14:20:00",
+                    "Mon",
+                    "",
+                    0
+                ]
+            ],
+            "exam": [
+                [
+                    "1900-01-01T08:30:00",
+                    "1900-01-01T10:30:00",
+                    "Mon",
+                    "",
+                    0
+                ]
+            ]
+        }
+    },
+    {
+        "term": "Fall 2022",
+        "status": "Closed",
+        "location": "Guelph",
+        "faculty": "J. McCuaig",
+        "credits": 0.5,
+        "academic_level": "Undergraduate",
+        "spots": {
+            "availability": 0,
+            "capacity": 17
+        },
+        "section": {
+            "full": "CIS*2430*0104 (7219) Object Oriented Programming",
+            "course": "CIS*2430",
+            "section_num": "0104",
+            "course_name": "Object Oriented Programming"
+        },
+        "meeting": {
+            "lec": [
+                [
+                    "1900-01-01T16:30:00",
+                    "1900-01-01T17:20:00",
+                    "Mon",
+                    "",
+                    0
+                ],
+                [
+                    "1900-01-01T16:30:00",
+                    "1900-01-01T17:20:00",
+                    "Wed",
+                    "",
+                    0
+                ],
+                [
+                    "1900-01-01T16:30:00",
+                    "1900-01-01T17:20:00",
+                    "Fri",
+                    "",
+                    0
+                ]
+            ],
+            "lab": [
+                [
+                    "1900-01-01T12:30:00",
+                    "1900-01-01T14:20:00",
+                    "Fri",
+                    "",
+                    0
+                ]
+            ],
+            "exam": [
+                [
+                    "1900-01-01T08:30:00",
+                    "1900-01-01T10:30:00",
+                    "Mon",
+                    "",
+                    0
+                ]
+            ]
+        }
+    },
+    {
+        "term": "Fall 2022",
+        "status": "Closed",
+        "location": "Guelph",
+        "faculty": "J. McCuaig",
+        "credits": 0.5,
+        "academic_level": "Undergraduate",
+        "spots": {
+            "availability": 0,
+            "capacity": 17
+        },
+        "section": {
+            "full": "CIS*2430*0105 (7220) Object Oriented Programming",
+            "course": "CIS*2430",
+            "section_num": "0105",
+            "course_name": "Object Oriented Programming"
+        },
+        "meeting": {
+            "lec": [
+                [
+                    "1900-01-01T16:30:00",
+                    "1900-01-01T17:20:00",
+                    "Mon",
+                    "",
+                    0
+                ],
+                [
+                    "1900-01-01T16:30:00",
+                    "1900-01-01T17:20:00",
+                    "Wed",
+                    "",
+                    0
+                ],
+                [
+                    "1900-01-01T16:30:00",
+                    "1900-01-01T17:20:00",
+                    "Fri",
+                    "",
+                    0
+                ]
+            ],
+            "lab": [
+                [
+                    "1900-01-01T08:30:00",
+                    "1900-01-01T10:20:00",
+                    "Thur",
+                    "",
+                    0
+                ]
+            ],
+            "exam": [
+                [
+                    "1900-01-01T08:30:00",
+                    "1900-01-01T10:30:00",
+                    "Mon",
+                    "",
+                    0
+                ]
+            ]
+        }
+    },
+    {
+        "term": "Fall 2022",
+        "status": "Closed",
+        "location": "Guelph",
+        "faculty": "J. McCuaig",
+        "credits": 0.5,
+        "academic_level": "Undergraduate",
+        "spots": {
+            "availability": 0,
+            "capacity": 17
+        },
+        "section": {
+            "full": "CIS*2430*0106 (7221) Object Oriented Programming",
+            "course": "CIS*2430",
+            "section_num": "0106",
+            "course_name": "Object Oriented Programming"
+        },
+        "meeting": {
+            "lec": [
+                [
+                    "1900-01-01T16:30:00",
+                    "1900-01-01T17:20:00",
+                    "Mon",
+                    "",
+                    0
+                ],
+                [
+                    "1900-01-01T16:30:00",
+                    "1900-01-01T17:20:00",
+                    "Wed",
+                    "",
+                    0
+                ],
+                [
+                    "1900-01-01T16:30:00",
+                    "1900-01-01T17:20:00",
+                    "Fri",
+                    "",
+                    0
+                ]
+            ],
+            "lab": [
+                [
+                    "1900-01-01T19:00:00",
+                    "1900-01-01T20:50:00",
+                    "Wed",
+                    "",
+                    0
+                ]
+            ],
+            "exam": [
+                [
+                    "1900-01-01T08:30:00",
+                    "1900-01-01T10:30:00",
+                    "Mon",
+                    "",
+                    0
+                ]
+            ]
+        }
+    },
+    {
+        "term": "Fall 2022",
+        "status": "Closed",
+        "location": "Guelph",
+        "faculty": "J. McCuaig",
+        "credits": 0.5,
+        "academic_level": "Undergraduate",
+        "spots": {
+            "availability": 0,
+            "capacity": 17
+        },
+        "section": {
+            "full": "CIS*2430*0107 (7222) Object Oriented Programming",
+            "course": "CIS*2430",
+            "section_num": "0107",
+            "course_name": "Object Oriented Programming"
+        },
+        "meeting": {
+            "lec": [
+                [
+                    "1900-01-01T16:30:00",
+                    "1900-01-01T17:20:00",
+                    "Mon",
+                    "",
+                    0
+                ],
+                [
+                    "1900-01-01T16:30:00",
+                    "1900-01-01T17:20:00",
+                    "Wed",
+                    "",
+                    0
+                ],
+                [
+                    "1900-01-01T16:30:00",
+                    "1900-01-01T17:20:00",
+                    "Fri",
+                    "",
+                    0
+                ]
+            ],
+            "lab": [
+                [
+                    "1900-01-01T19:00:00",
+                    "1900-01-01T20:50:00",
+                    "Mon",
+                    "",
+                    0
+                ]
+            ],
+            "exam": [
+                [
+                    "1900-01-01T08:30:00",
+                    "1900-01-01T10:30:00",
+                    "Mon",
+                    "",
+                    0
+                ]
+            ]
+        }
+    },
+    {
+        "term": "Fall 2022",
+        "status": "Closed",
+        "location": "Guelph",
+        "faculty": "J. McCuaig",
+        "credits": 0.5,
+        "academic_level": "Undergraduate",
+        "spots": {
+            "availability": 0,
+            "capacity": 17
+        },
+        "section": {
+            "full": "CIS*2430*0201 (7223) Object Oriented Programming",
+            "course": "CIS*2430",
+            "section_num": "0201",
+            "course_name": "Object Oriented Programming"
+        },
+        "meeting": {
+            "lec": [
+                [
+                    "1900-01-01T14:30:00",
+                    "1900-01-01T15:20:00",
+                    "Mon",
+                    "",
+                    0
+                ],
+                [
+                    "1900-01-01T14:30:00",
+                    "1900-01-01T15:20:00",
+                    "Wed",
+                    "",
+                    0
+                ],
+                [
+                    "1900-01-01T14:30:00",
+                    "1900-01-01T15:20:00",
+                    "Fri",
+                    "",
+                    0
+                ]
+            ],
+            "lab": [
+                [
+                    "1900-01-01T08:30:00",
+                    "1900-01-01T10:20:00",
+                    "Wed",
+                    "",
+                    0
+                ]
+            ],
+            "exam": [
+                [
+                    "1900-01-01T08:30:00",
+                    "1900-01-01T10:30:00",
+                    "Mon",
+                    "",
+                    0
+                ]
+            ]
+        }
+    },
+    {
+        "term": "Fall 2022",
+        "status": "Closed",
+        "location": "Guelph",
+        "faculty": "J. McCuaig",
+        "credits": 0.5,
+        "academic_level": "Undergraduate",
+        "spots": {
+            "availability": 0,
+            "capacity": 17
+        },
+        "section": {
+            "full": "CIS*2430*0202 (7224) Object Oriented Programming",
+            "course": "CIS*2430",
+            "section_num": "0202",
+            "course_name": "Object Oriented Programming"
+        },
+        "meeting": {
+            "lec": [
+                [
+                    "1900-01-01T14:30:00",
+                    "1900-01-01T15:20:00",
+                    "Mon",
+                    "",
+                    0
+                ],
+                [
+                    "1900-01-01T14:30:00",
+                    "1900-01-01T15:20:00",
+                    "Wed",
+                    "",
+                    0
+                ],
+                [
+                    "1900-01-01T14:30:00",
+                    "1900-01-01T15:20:00",
+                    "Fri",
+                    "",
+                    0
+                ]
+            ],
+            "lab": [
+                [
+                    "1900-01-01T11:30:00",
+                    "1900-01-01T13:20:00",
+                    "Tues",
+                    "",
+                    0
+                ]
+            ],
+            "exam": [
+                [
+                    "1900-01-01T08:30:00",
+                    "1900-01-01T10:30:00",
+                    "Mon",
+                    "",
+                    0
+                ]
+            ]
+        }
+    },
+    {
+        "term": "Fall 2022",
+        "status": "Closed",
+        "location": "Guelph",
+        "faculty": "J. McCuaig",
+        "credits": 0.5,
+        "academic_level": "Undergraduate",
+        "spots": {
+            "availability": 0,
+            "capacity": 17
+        },
+        "section": {
+            "full": "CIS*2430*0203 (7225) Object Oriented Programming",
+            "course": "CIS*2430",
+            "section_num": "0203",
+            "course_name": "Object Oriented Programming"
+        },
+        "meeting": {
+            "lec": [
+                [
+                    "1900-01-01T14:30:00",
+                    "1900-01-01T15:20:00",
+                    "Mon",
+                    "",
+                    0
+                ],
+                [
+                    "1900-01-01T14:30:00",
+                    "1900-01-01T15:20:00",
+                    "Wed",
+                    "",
+                    0
+                ],
+                [
+                    "1900-01-01T14:30:00",
+                    "1900-01-01T15:20:00",
+                    "Fri",
+                    "",
+                    0
+                ]
+            ],
+            "lab": [
+                [
+                    "1900-01-01T12:30:00",
+                    "1900-01-01T14:20:00",
+                    "Mon",
+                    "",
+                    0
+                ]
+            ],
+            "exam": [
+                [
+                    "1900-01-01T08:30:00",
+                    "1900-01-01T10:30:00",
+                    "Mon",
+                    "",
+                    0
+                ]
+            ]
+        }
+    },
+    {
+        "term": "Fall 2022",
+        "status": "Closed",
+        "location": "Guelph",
+        "faculty": "J. McCuaig",
+        "credits": 0.5,
+        "academic_level": "Undergraduate",
+        "spots": {
+            "availability": 0,
+            "capacity": 17
+        },
+        "section": {
+            "full": "CIS*2430*0204 (7226) Object Oriented Programming",
+            "course": "CIS*2430",
+            "section_num": "0204",
+            "course_name": "Object Oriented Programming"
+        },
+        "meeting": {
+            "lec": [
+                [
+                    "1900-01-01T14:30:00",
+                    "1900-01-01T15:20:00",
+                    "Mon",
+                    "",
+                    0
+                ],
+                [
+                    "1900-01-01T14:30:00",
+                    "1900-01-01T15:20:00",
+                    "Wed",
+                    "",
+                    0
+                ],
+                [
+                    "1900-01-01T14:30:00",
+                    "1900-01-01T15:20:00",
+                    "Fri",
+                    "",
+                    0
+                ]
+            ],
+            "lab": [
+                [
+                    "1900-01-01T12:30:00",
+                    "1900-01-01T14:20:00",
+                    "Fri",
+                    "",
+                    0
+                ]
+            ],
+            "exam": [
+                [
+                    "1900-01-01T08:30:00",
+                    "1900-01-01T10:30:00",
+                    "Mon",
+                    "",
+                    0
+                ]
+            ]
+        }
+    },
+    {
+        "term": "Fall 2022",
+        "status": "Closed",
+        "location": "Guelph",
+        "faculty": "J. McCuaig",
+        "credits": 0.5,
+        "academic_level": "Undergraduate",
+        "spots": {
+            "availability": 0,
+            "capacity": 17
+        },
+        "section": {
+            "full": "CIS*2430*0205 (7227) Object Oriented Programming",
+            "course": "CIS*2430",
+            "section_num": "0205",
+            "course_name": "Object Oriented Programming"
+        },
+        "meeting": {
+            "lec": [
+                [
+                    "1900-01-01T14:30:00",
+                    "1900-01-01T15:20:00",
+                    "Mon",
+                    "",
+                    0
+                ],
+                [
+                    "1900-01-01T14:30:00",
+                    "1900-01-01T15:20:00",
+                    "Wed",
+                    "",
+                    0
+                ],
+                [
+                    "1900-01-01T14:30:00",
+                    "1900-01-01T15:20:00",
+                    "Fri",
+                    "",
+                    0
+                ]
+            ],
+            "lab": [
+                [
+                    "1900-01-01T08:30:00",
+                    "1900-01-01T10:20:00",
+                    "Thur",
+                    "",
+                    0
+                ]
+            ],
+            "exam": [
+                [
+                    "1900-01-01T08:30:00",
+                    "1900-01-01T10:30:00",
+                    "Mon",
+                    "",
+                    0
+                ]
+            ]
+        }
+    },
+    {
+        "term": "Fall 2022",
+        "status": "Closed",
+        "location": "Guelph",
+        "faculty": "J. McCuaig",
+        "credits": 0.5,
+        "academic_level": "Undergraduate",
+        "spots": {
+            "availability": 0,
+            "capacity": 17
+        },
+        "section": {
+            "full": "CIS*2430*0206 (7228) Object Oriented Programming",
+            "course": "CIS*2430",
+            "section_num": "0206",
+            "course_name": "Object Oriented Programming"
+        },
+        "meeting": {
+            "lec": [
+                [
+                    "1900-01-01T14:30:00",
+                    "1900-01-01T15:20:00",
+                    "Mon",
+                    "",
+                    0
+                ],
+                [
+                    "1900-01-01T14:30:00",
+                    "1900-01-01T15:20:00",
+                    "Wed",
+                    "",
+                    0
+                ],
+                [
+                    "1900-01-01T14:30:00",
+                    "1900-01-01T15:20:00",
+                    "Fri",
+                    "",
+                    0
+                ]
+            ],
+            "lab": [
+                [
+                    "1900-01-01T19:00:00",
+                    "1900-01-01T20:50:00",
+                    "Wed",
+                    "",
+                    0
+                ]
+            ],
+            "exam": [
+                [
+                    "1900-01-01T08:30:00",
+                    "1900-01-01T10:30:00",
+                    "Mon",
+                    "",
+                    0
+                ]
+            ]
+        }
+    },
+    {
+        "term": "Fall 2022",
+        "status": "Closed",
+        "location": "Guelph",
+        "faculty": "J. McCuaig",
+        "credits": 0.5,
+        "academic_level": "Undergraduate",
+        "spots": {
+            "availability": 0,
+            "capacity": 17
+        },
+        "section": {
+            "full": "CIS*2430*0207 (7229) Object Oriented Programming",
+            "course": "CIS*2430",
+            "section_num": "0207",
+            "course_name": "Object Oriented Programming"
+        },
+        "meeting": {
+            "lec": [
+                [
+                    "1900-01-01T14:30:00",
+                    "1900-01-01T15:20:00",
+                    "Mon",
+                    "",
+                    0
+                ],
+                [
+                    "1900-01-01T14:30:00",
+                    "1900-01-01T15:20:00",
+                    "Wed",
+                    "",
+                    0
+                ],
+                [
+                    "1900-01-01T14:30:00",
+                    "1900-01-01T15:20:00",
+                    "Fri",
+                    "",
+                    0
+                ]
+            ],
+            "lab": [
+                [
+                    "1900-01-01T19:00:00",
+                    "1900-01-01T20:50:00",
+                    "Mon",
+                    "",
+                    0
+                ]
+            ],
+            "exam": [
+                [
+                    "1900-01-01T08:30:00",
+                    "1900-01-01T10:30:00",
+                    "Mon",
+                    "",
+                    0
+                ]
+            ]
+        }
+    },
+    {
+        "term": "Fall 2022",
+        "status": "Closed",
+        "location": "Guelph",
+        "faculty": "C. Obimbo",
+        "credits": 0.5,
+        "academic_level": "Undergraduate",
+        "spots": {
+            "availability": 0,
+            "capacity": 14
+        },
+        "section": {
+            "full": "CIS*2520*0101 (7230) Data Structures",
+            "course": "CIS*2520",
+            "section_num": "0101",
+            "course_name": "Data Structures"
+        },
+        "meeting": {
+            "lec": [
+                [
+                    "1900-01-01T14:30:00",
+                    "1900-01-01T15:50:00",
+                    "Tues",
+                    "MACN",
+                    113
+                ],
+                [
+                    "1900-01-01T14:30:00",
+                    "1900-01-01T15:50:00",
+                    "Thur",
+                    "MACN",
+                    113
+                ]
+            ],
+            "lab": [
+                [
+                    "1900-01-01T12:30:00",
+                    "1900-01-01T14:20:00",
+                    "Fri",
+                    "",
+                    0
+                ]
+            ],
+            "exam": [
+                [
+                    "1900-01-01T11:30:00",
+                    "1900-01-01T13:30:00",
+                    "Tues",
+                    "",
+                    0
+                ]
+            ]
+        }
+    },
+    {
+        "term": "Fall 2022",
+        "status": "Closed",
+        "location": "Guelph",
+        "faculty": "C. Obimbo",
+        "credits": 0.5,
+        "academic_level": "Undergraduate",
+        "spots": {
+            "availability": 0,
+            "capacity": 14
+        },
+        "section": {
+            "full": "CIS*2520*0102 (7231) Data Structures",
+            "course": "CIS*2520",
+            "section_num": "0102",
+            "course_name": "Data Structures"
+        },
+        "meeting": {
+            "lec": [
+                [
+                    "1900-01-01T14:30:00",
+                    "1900-01-01T15:50:00",
+                    "Tues",
+                    "MACN",
+                    113
+                ],
+                [
+                    "1900-01-01T14:30:00",
+                    "1900-01-01T15:50:00",
+                    "Thur",
+                    "MACN",
+                    113
+                ]
+            ],
+            "lab": [
+                [
+                    "1900-01-01T15:30:00",
+                    "1900-01-01T17:20:00",
+                    "Wed",
+                    "ROZH",
+                    106
+                ]
+            ],
+            "exam": [
+                [
+                    "1900-01-01T11:30:00",
+                    "1900-01-01T13:30:00",
+                    "Tues",
+                    "",
+                    0
+                ]
+            ]
+        }
+    },
+    {
+        "term": "Fall 2022",
+        "status": "Closed",
+        "location": "Guelph",
+        "faculty": "C. Obimbo",
+        "credits": 0.5,
+        "academic_level": "Undergraduate",
+        "spots": {
+            "availability": 0,
+            "capacity": 14
+        },
+        "section": {
+            "full": "CIS*2520*0103 (7232) Data Structures",
+            "course": "CIS*2520",
+            "section_num": "0103",
+            "course_name": "Data Structures"
+        },
+        "meeting": {
+            "lec": [
+                [
+                    "1900-01-01T14:30:00",
+                    "1900-01-01T15:50:00",
+                    "Tues",
+                    "MACN",
+                    113
+                ],
+                [
+                    "1900-01-01T14:30:00",
+                    "1900-01-01T15:50:00",
+                    "Thur",
+                    "MACN",
+                    113
+                ]
+            ],
+            "lab": [
+                [
+                    "1900-01-01T08:30:00",
+                    "1900-01-01T10:20:00",
+                    "Mon",
+                    "ALEX",
+                    28
+                ]
+            ],
+            "exam": [
+                [
+                    "1900-01-01T11:30:00",
+                    "1900-01-01T13:30:00",
+                    "Tues",
+                    "",
+                    0
+                ]
+            ]
+        }
+    },
+    {
+        "term": "Fall 2022",
+        "status": "Closed",
+        "location": "Guelph",
+        "faculty": "C. Obimbo",
+        "credits": 0.5,
+        "academic_level": "Undergraduate",
+        "spots": {
+            "availability": 0,
+            "capacity": 14
+        },
+        "section": {
+            "full": "CIS*2520*0105 (7234) Data Structures",
+            "course": "CIS*2520",
+            "section_num": "0105",
+            "course_name": "Data Structures"
+        },
+        "meeting": {
+            "lec": [
+                [
+                    "1900-01-01T14:30:00",
+                    "1900-01-01T15:50:00",
+                    "Tues",
+                    "MACN",
+                    113
+                ],
+                [
+                    "1900-01-01T14:30:00",
+                    "1900-01-01T15:50:00",
+                    "Thur",
+                    "MACN",
+                    113
+                ]
+            ],
+            "lab": [
+                [
+                    "1900-01-01T08:30:00",
+                    "1900-01-01T10:20:00",
+                    "Fri",
+                    "MCKN",
+                    233
+                ]
+            ],
+            "exam": [
+                [
+                    "1900-01-01T11:30:00",
+                    "1900-01-01T13:30:00",
+                    "Tues",
+                    "",
+                    0
+                ]
+            ]
+        }
+    },
+    {
+        "term": "Fall 2022",
+        "status": "Closed",
+        "location": "Guelph",
+        "faculty": "C. Obimbo",
+        "credits": 0.5,
+        "academic_level": "Undergraduate",
+        "spots": {
+            "availability": 0,
+            "capacity": 14
+        },
+        "section": {
+            "full": "CIS*2520*0106 (7235) Data Structures",
+            "course": "CIS*2520",
+            "section_num": "0106",
+            "course_name": "Data Structures"
+        },
+        "meeting": {
+            "lec": [
+                [
+                    "1900-01-01T14:30:00",
+                    "1900-01-01T15:50:00",
+                    "Tues",
+                    "MACN",
+                    113
+                ],
+                [
+                    "1900-01-01T14:30:00",
+                    "1900-01-01T15:50:00",
+                    "Thur",
+                    "MACN",
+                    113
+                ]
+            ],
+            "lab": [
+                [
+                    "1900-01-01T14:30:00",
+                    "1900-01-01T16:20:00",
+                    "Mon",
+                    "",
+                    0
+                ]
+            ],
+            "exam": [
+                [
+                    "1900-01-01T11:30:00",
+                    "1900-01-01T13:30:00",
+                    "Tues",
+                    "",
+                    0
+                ]
+            ]
+        }
+    },
+    {
+        "term": "Fall 2022",
+        "status": "Closed",
+        "location": "Guelph",
+        "faculty": "C. Obimbo",
+        "credits": 0.5,
+        "academic_level": "Undergraduate",
+        "spots": {
+            "availability": 0,
+            "capacity": 14
+        },
+        "section": {
+            "full": "CIS*2520*0107 (7236) Data Structures",
+            "course": "CIS*2520",
+            "section_num": "0107",
+            "course_name": "Data Structures"
+        },
+        "meeting": {
+            "lec": [
+                [
+                    "1900-01-01T14:30:00",
+                    "1900-01-01T15:50:00",
+                    "Tues",
+                    "MACN",
+                    113
+                ],
+                [
+                    "1900-01-01T14:30:00",
+                    "1900-01-01T15:50:00",
+                    "Thur",
+                    "MACN",
+                    113
+                ]
+            ],
+            "lab": [
+                [
+                    "1900-01-01T11:30:00",
+                    "1900-01-01T13:20:00",
+                    "Tues",
+                    "ROZH",
+                    106
+                ]
+            ],
+            "exam": [
+                [
+                    "1900-01-01T11:30:00",
+                    "1900-01-01T13:30:00",
+                    "Tues",
+                    "",
+                    0
+                ]
+            ]
+        }
+    },
+    {
+        "term": "Fall 2022",
+        "status": "Closed",
+        "location": "Guelph",
+        "faculty": "C. Obimbo",
+        "credits": 0.5,
+        "academic_level": "Undergraduate",
+        "spots": {
+            "availability": 0,
+            "capacity": 14
+        },
+        "section": {
+            "full": "CIS*2520*0108 (7237) Data Structures",
+            "course": "CIS*2520",
+            "section_num": "0108",
+            "course_name": "Data Structures"
+        },
+        "meeting": {
+            "lec": [
+                [
+                    "1900-01-01T14:30:00",
+                    "1900-01-01T15:50:00",
+                    "Tues",
+                    "MACN",
+                    113
+                ],
+                [
+                    "1900-01-01T14:30:00",
+                    "1900-01-01T15:50:00",
+                    "Thur",
+                    "MACN",
+                    113
+                ]
+            ],
+            "lab": [
+                [
+                    "1900-01-01T19:00:00",
+                    "1900-01-01T20:50:00",
+                    "Tues",
+                    "MACS",
+                    129
+                ]
+            ],
+            "exam": [
+                [
+                    "1900-01-01T11:30:00",
+                    "1900-01-01T13:30:00",
+                    "Tues",
+                    "",
+                    0
+                ]
+            ]
+        }
+    },
+    {
+        "term": "Fall 2022",
+        "status": "Closed",
+        "location": "Guelph",
+        "faculty": "C. Obimbo",
+        "credits": 0.5,
+        "academic_level": "Undergraduate",
+        "spots": {
+            "availability": 0,
+            "capacity": 14
+        },
+        "section": {
+            "full": "CIS*2520*0109 (7238) Data Structures",
+            "course": "CIS*2520",
+            "section_num": "0109",
+            "course_name": "Data Structures"
+        },
+        "meeting": {
+            "lec": [
+                [
+                    "1900-01-01T14:30:00",
+                    "1900-01-01T15:50:00",
+                    "Tues",
+                    "MACN",
+                    113
+                ],
+                [
+                    "1900-01-01T14:30:00",
+                    "1900-01-01T15:50:00",
+                    "Thur",
+                    "MACN",
+                    113
+                ]
+            ],
+            "lab": [
+                [
+                    "1900-01-01T14:30:00",
+                    "1900-01-01T16:20:00",
+                    "Fri",
+                    "ROZH",
+                    106
+                ]
+            ],
+            "exam": [
+                [
+                    "1900-01-01T11:30:00",
+                    "1900-01-01T13:30:00",
+                    "Tues",
+                    "",
+                    0
+                ]
+            ]
+        }
+    },
+    {
+        "term": "Fall 2022",
+        "status": "Closed",
+        "location": "Guelph",
+        "faculty": "C. Obimbo",
+        "credits": 0.5,
+        "academic_level": "Undergraduate",
+        "spots": {
+            "availability": 0,
+            "capacity": 14
+        },
+        "section": {
+            "full": "CIS*2520*0201 (7239) Data Structures",
+            "course": "CIS*2520",
+            "section_num": "0201",
+            "course_name": "Data Structures"
+        },
+        "meeting": {
+            "lec": [
+                [
+                    "1900-01-01T10:00:00",
+                    "1900-01-01T11:20:00",
+                    "Tues",
+                    "ALEX",
+                    100
+                ],
+                [
+                    "1900-01-01T10:00:00",
+                    "1900-01-01T11:20:00",
+                    "Thur",
+                    "ALEX",
+                    100
+                ]
+            ],
+            "lab": [
+                [
+                    "1900-01-01T12:30:00",
+                    "1900-01-01T14:20:00",
+                    "Fri",
+                    "MACN",
+                    118
+                ]
+            ],
+            "exam": [
+                [
+                    "1900-01-01T11:30:00",
+                    "1900-01-01T13:30:00",
+                    "Tues",
+                    "",
+                    0
+                ]
+            ]
+        }
+    },
+    {
+        "term": "Fall 2022",
+        "status": "Closed",
+        "location": "Guelph",
+        "faculty": "C. Obimbo",
+        "credits": 0.5,
+        "academic_level": "Undergraduate",
+        "spots": {
+            "availability": 0,
+            "capacity": 14
+        },
+        "section": {
+            "full": "CIS*2520*0202 (7240) Data Structures",
+            "course": "CIS*2520",
+            "section_num": "0202",
+            "course_name": "Data Structures"
+        },
+        "meeting": {
+            "lec": [
+                [
+                    "1900-01-01T10:00:00",
+                    "1900-01-01T11:20:00",
+                    "Tues",
+                    "ALEX",
+                    100
+                ],
+                [
+                    "1900-01-01T10:00:00",
+                    "1900-01-01T11:20:00",
+                    "Thur",
+                    "ALEX",
+                    100
+                ]
+            ],
+            "lab": [
+                [
+                    "1900-01-01T15:30:00",
+                    "1900-01-01T17:20:00",
+                    "Wed",
+                    "ROZH",
+                    106
+                ]
+            ],
+            "exam": [
+                [
+                    "1900-01-01T11:30:00",
+                    "1900-01-01T13:30:00",
+                    "Tues",
+                    "",
+                    0
+                ]
+            ]
+        }
+    },
+    {
+        "term": "Fall 2022",
+        "status": "Closed",
+        "location": "Guelph",
+        "faculty": "C. Obimbo",
+        "credits": 0.5,
+        "academic_level": "Undergraduate",
+        "spots": {
+            "availability": 0,
+            "capacity": 14
+        },
+        "section": {
+            "full": "CIS*2520*0203 (7241) Data Structures",
+            "course": "CIS*2520",
+            "section_num": "0203",
+            "course_name": "Data Structures"
+        },
+        "meeting": {
+            "lec": [
+                [
+                    "1900-01-01T10:00:00",
+                    "1900-01-01T11:20:00",
+                    "Tues",
+                    "ALEX",
+                    100
+                ],
+                [
+                    "1900-01-01T10:00:00",
+                    "1900-01-01T11:20:00",
+                    "Thur",
+                    "ALEX",
+                    100
+                ]
+            ],
+            "lab": [
+                [
+                    "1900-01-01T08:30:00",
+                    "1900-01-01T10:20:00",
+                    "Mon",
+                    "",
+                    0
+                ]
+            ],
+            "exam": [
+                [
+                    "1900-01-01T11:30:00",
+                    "1900-01-01T13:30:00",
+                    "Tues",
+                    "",
+                    0
+                ]
+            ]
+        }
+    },
+    {
+        "term": "Fall 2022",
+        "status": "Closed",
+        "location": "Guelph",
+        "faculty": "C. Obimbo",
+        "credits": 0.5,
+        "academic_level": "Undergraduate",
+        "spots": {
+            "availability": 0,
+            "capacity": 14
+        },
+        "section": {
+            "full": "CIS*2520*0205 (7243) Data Structures",
+            "course": "CIS*2520",
+            "section_num": "0205",
+            "course_name": "Data Structures"
+        },
+        "meeting": {
+            "lec": [
+                [
+                    "1900-01-01T10:00:00",
+                    "1900-01-01T11:20:00",
+                    "Tues",
+                    "ALEX",
+                    100
+                ],
+                [
+                    "1900-01-01T10:00:00",
+                    "1900-01-01T11:20:00",
+                    "Thur",
+                    "ALEX",
+                    100
+                ]
+            ],
+            "lab": [
+                [
+                    "1900-01-01T08:30:00",
+                    "1900-01-01T10:20:00",
+                    "Fri",
+                    "MCKN",
+                    233
+                ]
+            ],
+            "exam": [
+                [
+                    "1900-01-01T11:30:00",
+                    "1900-01-01T13:30:00",
+                    "Tues",
+                    "",
+                    0
+                ]
+            ]
+        }
+    },
+    {
+        "term": "Fall 2022",
+        "status": "Closed",
+        "location": "Guelph",
+        "faculty": "C. Obimbo",
+        "credits": 0.5,
+        "academic_level": "Undergraduate",
+        "spots": {
+            "availability": 0,
+            "capacity": 14
+        },
+        "section": {
+            "full": "CIS*2520*0206 (7244) Data Structures",
+            "course": "CIS*2520",
+            "section_num": "0206",
+            "course_name": "Data Structures"
+        },
+        "meeting": {
+            "lec": [
+                [
+                    "1900-01-01T10:00:00",
+                    "1900-01-01T11:20:00",
+                    "Tues",
+                    "ALEX",
+                    100
+                ],
+                [
+                    "1900-01-01T10:00:00",
+                    "1900-01-01T11:20:00",
+                    "Thur",
+                    "ALEX",
+                    100
+                ]
+            ],
+            "lab": [
+                [
+                    "1900-01-01T14:30:00",
+                    "1900-01-01T16:20:00",
+                    "Mon",
+                    "MACN",
+                    118
+                ]
+            ],
+            "exam": [
+                [
+                    "1900-01-01T11:30:00",
+                    "1900-01-01T13:30:00",
+                    "Tues",
+                    "",
+                    0
+                ]
+            ]
+        }
+    },
+    {
+        "term": "Fall 2022",
+        "status": "Closed",
+        "location": "Guelph",
+        "faculty": "C. Obimbo",
+        "credits": 0.5,
+        "academic_level": "Undergraduate",
+        "spots": {
+            "availability": 0,
+            "capacity": 14
+        },
+        "section": {
+            "full": "CIS*2520*0207 (7245) Data Structures",
+            "course": "CIS*2520",
+            "section_num": "0207",
+            "course_name": "Data Structures"
+        },
+        "meeting": {
+            "lec": [
+                [
+                    "1900-01-01T10:00:00",
+                    "1900-01-01T11:20:00",
+                    "Tues",
+                    "ALEX",
+                    100
+                ],
+                [
+                    "1900-01-01T10:00:00",
+                    "1900-01-01T11:20:00",
+                    "Thur",
+                    "ALEX",
+                    100
+                ]
+            ],
+            "lab": [
+                [
+                    "1900-01-01T11:30:00",
+                    "1900-01-01T13:20:00",
+                    "Tues",
+                    "ROZH",
+                    106
+                ]
+            ],
+            "exam": [
+                [
+                    "1900-01-01T11:30:00",
+                    "1900-01-01T13:30:00",
+                    "Tues",
+                    "",
+                    0
+                ]
+            ]
+        }
+    },
+    {
+        "term": "Fall 2022",
+        "status": "Closed",
+        "location": "Guelph",
+        "faculty": "C. Obimbo",
+        "credits": 0.5,
+        "academic_level": "Undergraduate",
+        "spots": {
+            "availability": 0,
+            "capacity": 14
+        },
+        "section": {
+            "full": "CIS*2520*0208 (7246) Data Structures",
+            "course": "CIS*2520",
+            "section_num": "0208",
+            "course_name": "Data Structures"
+        },
+        "meeting": {
+            "lec": [
+                [
+                    "1900-01-01T10:00:00",
+                    "1900-01-01T11:20:00",
+                    "Tues",
+                    "ALEX",
+                    100
+                ],
+                [
+                    "1900-01-01T10:00:00",
+                    "1900-01-01T11:20:00",
+                    "Thur",
+                    "ALEX",
+                    100
+                ]
+            ],
+            "lab": [
+                [
+                    "1900-01-01T19:00:00",
+                    "1900-01-01T20:50:00",
+                    "Tues",
+                    "MACS",
+                    129
+                ]
+            ],
+            "exam": [
+                [
+                    "1900-01-01T11:30:00",
+                    "1900-01-01T13:30:00",
+                    "Tues",
+                    "",
+                    0
+                ]
+            ]
+        }
+    },
+    {
+        "term": "Fall 2022",
+        "status": "Closed",
+        "location": "Guelph",
+        "faculty": "C. Obimbo",
+        "credits": 0.5,
+        "academic_level": "Undergraduate",
+        "spots": {
+            "availability": 0,
+            "capacity": 14
+        },
+        "section": {
+            "full": "CIS*2520*0209 (7247) Data Structures",
+            "course": "CIS*2520",
+            "section_num": "0209",
+            "course_name": "Data Structures"
+        },
+        "meeting": {
+            "lec": [
+                [
+                    "1900-01-01T10:00:00",
+                    "1900-01-01T11:20:00",
+                    "Tues",
+                    "ALEX",
+                    100
+                ],
+                [
+                    "1900-01-01T10:00:00",
+                    "1900-01-01T11:20:00",
+                    "Thur",
+                    "ALEX",
+                    100
+                ]
+            ],
+            "lab": [
+                [
+                    "1900-01-01T14:30:00",
+                    "1900-01-01T16:20:00",
+                    "Fri",
+                    "ROZH",
+                    106
+                ]
+            ],
+            "exam": [
+                [
+                    "1900-01-01T11:30:00",
+                    "1900-01-01T13:30:00",
+                    "Tues",
+                    "",
+                    0
+                ]
+            ]
+        }
+    },
+    {
+        "term": "Fall 2022",
+        "status": "Open",
+        "location": "Guelph",
+        "faculty": "D. Nikitenko",
+        "credits": 0.75,
+        "academic_level": "Undergraduate",
+        "spots": {
+            "availability": 1,
+            "capacity": 30
+        },
+        "section": {
+            "full": "CIS*2750*0101 (7248) Software System Dvlmt ",
+            "course": "CIS*2750",
+            "section_num": "0101",
+            "course_name": "Software System Dvlmt "
+        },
+        "meeting": {
+            "lec": [
+                [
+                    "1900-01-01T16:00:00",
+                    "1900-01-01T17:20:00",
+                    "Tues",
+                    "MCKN",
+                    31
+                ],
+                [
+                    "1900-01-01T16:00:00",
+                    "1900-01-01T17:20:00",
+                    "Thur",
+                    "MCKN",
+                    31
+                ]
+            ],
+            "lab": [
+                [
+                    "1900-01-01T12:30:00",
+                    "1900-01-01T14:20:00",
+                    "Tues",
+                    "THRN",
+                    2420
+                ]
+            ],
+            "exam": [
+                [
+                    "1900-01-01T08:30:00",
+                    "1900-01-01T10:30:00",
+                    "Fri",
+                    "",
+                    0
+                ]
+            ]
+        }
+    },
+    {
+        "term": "Fall 2022",
+        "status": "Open",
+        "location": "Guelph",
+        "faculty": "D. Nikitenko",
+        "credits": 0.75,
+        "academic_level": "Undergraduate",
+        "spots": {
+            "availability": 13,
+            "capacity": 30
+        },
+        "section": {
+            "full": "CIS*2750*0102 (7249) Software System Dvlmt ",
+            "course": "CIS*2750",
+            "section_num": "0102",
+            "course_name": "Software System Dvlmt "
+        },
+        "meeting": {
+            "lec": [
+                [
+                    "1900-01-01T16:00:00",
+                    "1900-01-01T17:20:00",
+                    "Tues",
+                    "MCKN",
+                    31
+                ],
+                [
+                    "1900-01-01T16:00:00",
+                    "1900-01-01T17:20:00",
+                    "Thur",
+                    "MCKN",
+                    31
+                ]
+            ],
+            "lab": [
+                [
+                    "1900-01-01T08:30:00",
+                    "1900-01-01T10:20:00",
+                    "Mon",
+                    "THRN",
+                    2420
+                ]
+            ],
+            "exam": [
+                [
+                    "1900-01-01T08:30:00",
+                    "1900-01-01T10:30:00",
+                    "Fri",
+                    "",
+                    0
+                ]
+            ]
+        }
+    },
+    {
+        "term": "Fall 2022",
+        "status": "Closed",
+        "location": "Guelph",
+        "faculty": "D. Nikitenko",
+        "credits": 0.5,
+        "academic_level": "Undergraduate",
+        "spots": {
+            "availability": 0,
+            "capacity": 74
+        },
+        "section": {
+            "full": "CIS*3050*0101 (7250) Systems Programming",
+            "course": "CIS*3050",
+            "section_num": "0101",
+            "course_name": "Systems Programming"
+        },
+        "meeting": {
+            "lec": [
+                [
+                    "1900-01-01T15:30:00",
+                    "1900-01-01T16:20:00",
+                    "Mon",
+                    "MCKN",
+                    121
+                ],
+                [
+                    "1900-01-01T15:30:00",
+                    "1900-01-01T16:20:00",
+                    "Wed",
+                    "MCKN",
+                    121
+                ],
+                [
+                    "1900-01-01T15:30:00",
+                    "1900-01-01T16:20:00",
+                    "Fri",
+                    "MCKN",
+                    121
+                ]
+            ],
+            "lab": [
+                [
+                    "1900-01-01T14:30:00",
+                    "1900-01-01T15:20:00",
+                    "Mon",
+                    "",
+                    0
+                ]
+            ],
+            "exam": []
+        }
+    },
+    {
+        "term": "Fall 2022",
+        "status": "Closed",
+        "location": "Guelph",
+        "faculty": "D. Nikitenko",
+        "credits": 0.5,
+        "academic_level": "Undergraduate",
+        "spots": {
+            "availability": 0,
+            "capacity": 74
+        },
+        "section": {
+            "full": "CIS*3090*0101 (7251) Parallel Programming",
+            "course": "CIS*3090",
+            "section_num": "0101",
+            "course_name": "Parallel Programming"
+        },
+        "meeting": {
+            "lec": [
+                [
+                    "1900-01-01T11:30:00",
+                    "1900-01-01T12:50:00",
+                    "Tues",
+                    "ANNU",
+                    156
+                ],
+                [
+                    "1900-01-01T11:30:00",
+                    "1900-01-01T12:50:00",
+                    "Thur",
+                    "ANNU",
+                    156
+                ]
+            ],
+            "lab": [
+                [
+                    "1900-01-01T11:30:00",
+                    "1900-01-01T12:20:00",
+                    "Fri",
+                    "MCKN",
+                    121
+                ]
+            ],
+            "exam": []
+        }
+    },
+    {
+        "term": "Fall 2022",
+        "status": "Open",
+        "location": "Guelph",
+        "faculty": "M. Wineberg",
+        "credits": 0.5,
+        "academic_level": "Undergraduate",
+        "spots": {
+            "availability": 36,
+            "capacity": 75
+        },
+        "section": {
+            "full": "CIS*3130*0101 (7252) System Modeling and Sim",
+            "course": "CIS*3130",
+            "section_num": "0101",
+            "course_name": "System Modeling and Sim"
+        },
+        "meeting": {
+            "lec": [
+                [
+                    "1900-01-01T16:00:00",
+                    "1900-01-01T17:20:00",
+                    "Tues",
+                    "ANNU",
+                    156
+                ],
+                [
+                    "1900-01-01T16:00:00",
+                    "1900-01-01T17:20:00",
+                    "Thur",
+                    "ANNU",
+                    156
+                ]
+            ],
+            "lab": [
+                [
+                    "1900-01-01T08:30:00",
+                    "1900-01-01T10:20:00",
+                    "Fri",
+                    "MCKN",
+                    29
+                ]
+            ],
+            "exam": [
+                [
+                    "1900-01-01T14:30:00",
+                    "1900-01-01T16:30:00",
+                    "Fri",
+                    "",
+                    0
+                ]
+            ]
+        }
+    },
+    {
+        "term": "Fall 2022",
+        "status": "Closed",
+        "location": "Guelph",
+        "faculty": "J. Sawada",
+        "credits": 0.5,
+        "academic_level": "Undergraduate",
+        "spots": {
+            "availability": 0,
+            "capacity": 115
+        },
+        "section": {
+            "full": "CIS*3150*0101 (7253) Theory of Computation",
+            "course": "CIS*3150",
+            "section_num": "0101",
+            "course_name": "Theory of Computation"
+        },
+        "meeting": {
+            "lec": [
+                [
+                    "1900-01-01T16:00:00",
+                    "1900-01-01T17:20:00",
+                    "Tues",
+                    "MACN",
+                    113
+                ],
+                [
+                    "1900-01-01T16:00:00",
+                    "1900-01-01T17:20:00",
+                    "Thur",
+                    "MACN",
+                    113
+                ]
+            ],
+            "lab": [
+                [
+                    "1900-01-01T16:30:00",
+                    "1900-01-01T17:20:00",
+                    "Mon",
+                    "",
+                    0
+                ]
+            ],
+            "exam": [
+                [
+                    "1900-01-01T08:30:00",
+                    "1900-01-01T10:30:00",
+                    "Wed",
+                    "",
+                    0
+                ]
+            ]
+        }
+    },
+    {
+        "term": "Fall 2022",
+        "status": "Closed",
+        "location": "Guelph",
+        "faculty": "TBA  TBA",
+        "credits": 0.5,
+        "academic_level": "Undergraduate",
+        "spots": {
+            "availability": 0,
+            "capacity": 95
+        },
+        "section": {
+            "full": "CIS*3210*0101 (7254) Computer Networks",
+            "course": "CIS*3210",
+            "section_num": "0101",
+            "course_name": "Computer Networks"
+        },
+        "meeting": {
+            "lec": [
+                [
+                    "1900-01-01T10:30:00",
+                    "1900-01-01T11:20:00",
+                    "Mon",
+                    "",
+                    0
+                ],
+                [
+                    "1900-01-01T10:30:00",
+                    "1900-01-01T11:20:00",
+                    "Wed",
+                    "",
+                    0
+                ],
+                [
+                    "1900-01-01T10:30:00",
+                    "1900-01-01T11:20:00",
+                    "Fri",
+                    "",
+                    0
+                ]
+            ],
+            "lab": [],
+            "exam": []
+        }
+    },
+    {
+        "term": "Fall 2022",
+        "status": "Closed",
+        "location": "Guelph",
+        "faculty": "S. Scott",
+        "credits": 0.5,
+        "academic_level": "Undergraduate",
+        "spots": {
+            "availability": 0,
+            "capacity": 34
+        },
+        "section": {
+            "full": "CIS*3250*0101 (7255) Software Design III",
+            "course": "CIS*3250",
+            "section_num": "0101",
+            "course_name": "Software Design III"
+        },
+        "meeting": {
+            "lec": [
+                [
+                    "1900-01-01T08:30:00",
+                    "1900-01-01T09:20:00",
+                    "Mon",
+                    "MCKN",
+                    121
+                ],
+                [
+                    "1900-01-01T08:30:00",
+                    "1900-01-01T09:20:00",
+                    "Wed",
+                    "MCKN",
+                    121
+                ],
+                [
+                    "1900-01-01T08:30:00",
+                    "1900-01-01T09:20:00",
+                    "Fri",
+                    "MCKN",
+                    121
+                ]
+            ],
+            "lab": [
+                [
+                    "1900-01-01T11:30:00",
+                    "1900-01-01T14:20:00",
+                    "Thur",
+                    "THRN",
+                    2420
+                ]
+            ],
+            "exam": []
+        }
+    },
+    {
+        "term": "Fall 2022",
+        "status": "Open",
+        "location": "Guelph",
+        "faculty": "S. Scott",
+        "credits": 0.5,
+        "academic_level": "Undergraduate",
+        "spots": {
+            "availability": 14,
+            "capacity": 34
+        },
+        "section": {
+            "full": "CIS*3250*0102 (7256) Software Design III",
+            "course": "CIS*3250",
+            "section_num": "0102",
+            "course_name": "Software Design III"
+        },
+        "meeting": {
+            "lec": [
+                [
+                    "1900-01-01T08:30:00",
+                    "1900-01-01T09:20:00",
+                    "Mon",
+                    "MCKN",
+                    121
+                ],
+                [
+                    "1900-01-01T08:30:00",
+                    "1900-01-01T09:20:00",
+                    "Wed",
+                    "MCKN",
+                    121
+                ],
+                [
+                    "1900-01-01T08:30:00",
+                    "1900-01-01T09:20:00",
+                    "Fri",
+                    "MCKN",
+                    121
+                ]
+            ],
+            "lab": [
+                [
+                    "1900-01-01T11:30:00",
+                    "1900-01-01T14:20:00",
+                    "Fri",
+                    "THRN",
+                    2420
+                ]
+            ],
+            "exam": []
+        }
+    },
+    {
+        "term": "Fall 2022",
+        "status": "Open",
+        "location": "Guelph",
+        "faculty": "M. Wineberg",
+        "credits": 0.5,
+        "academic_level": "Undergraduate",
+        "spots": {
+            "availability": 13,
+            "capacity": 30
+        },
+        "section": {
+            "full": "CIS*3260*0101 (7257) Software Design IV",
+            "course": "CIS*3260",
+            "section_num": "0101",
+            "course_name": "Software Design IV"
+        },
+        "meeting": {
+            "lec": [
+                [
+                    "1900-01-01T11:30:00",
+                    "1900-01-01T12:50:00",
+                    "Tues",
+                    "MINS",
+                    300
+                ],
+                [
+                    "1900-01-01T11:30:00",
+                    "1900-01-01T12:50:00",
+                    "Thur",
+                    "MINS",
+                    300
+                ]
+            ],
+            "lab": [
+                [
+                    "1900-01-01T14:30:00",
+                    "1900-01-01T17:20:00",
+                    "Tues",
+                    "THRN",
+                    2420
+                ]
+            ],
+            "exam": [
+                [
+                    "1900-01-01T08:30:00",
+                    "1900-01-01T10:30:00",
+                    "Sat",
+                    "",
+                    0
+                ]
+            ]
+        }
+    },
+    {
+        "term": "Fall 2022",
+        "status": "Open",
+        "location": "Guelph",
+        "faculty": "M. Wineberg",
+        "credits": 0.5,
+        "academic_level": "Undergraduate",
+        "spots": {
+            "availability": 2,
+            "capacity": 30
+        },
+        "section": {
+            "full": "CIS*3260*0102 (7258) Software Design IV",
+            "course": "CIS*3260",
+            "section_num": "0102",
+            "course_name": "Software Design IV"
+        },
+        "meeting": {
+            "lec": [
+                [
+                    "1900-01-01T11:30:00",
+                    "1900-01-01T12:50:00",
+                    "Tues",
+                    "MINS",
+                    300
+                ],
+                [
+                    "1900-01-01T11:30:00",
+                    "1900-01-01T12:50:00",
+                    "Thur",
+                    "MINS",
+                    300
+                ]
+            ],
+            "lab": [
+                [
+                    "1900-01-01T11:30:00",
+                    "1900-01-01T14:20:00",
+                    "Wed",
+                    "THRN",
+                    2420
+                ]
+            ],
+            "exam": [
+                [
+                    "1900-01-01T08:30:00",
+                    "1900-01-01T10:30:00",
+                    "Sat",
+                    "",
+                    0
+                ]
+            ]
+        }
+    },
+    {
+        "term": "Fall 2022",
+        "status": "Closed",
+        "location": "Guelph",
+        "faculty": "F. Wang",
+        "credits": 0.5,
+        "academic_level": "Undergraduate",
+        "spots": {
+            "availability": 0,
+            "capacity": 130
+        },
+        "section": {
+            "full": "CIS*3530*0101 (7259) Data Base Systems ",
+            "course": "CIS*3530",
+            "section_num": "0101",
+            "course_name": "Data Base Systems "
+        },
+        "meeting": {
+            "lec": [
+                [
+                    "1900-01-01T13:30:00",
+                    "1900-01-01T14:20:00",
+                    "Mon",
+                    "ALEX",
+                    100
+                ],
+                [
+                    "1900-01-01T13:30:00",
+                    "1900-01-01T14:20:00",
+                    "Wed",
+                    "ALEX",
+                    100
+                ],
+                [
+                    "1900-01-01T13:30:00",
+                    "1900-01-01T14:20:00",
+                    "Fri",
+                    "ALEX",
+                    100
+                ]
+            ],
+            "lab": [
+                [
+                    "1900-01-01T19:00:00",
+                    "1900-01-01T20:50:00",
+                    "Thur",
+                    "MCLN",
+                    102
+                ]
+            ],
+            "exam": []
+        }
+    },
+    {
+        "term": "Fall 2022",
+        "status": "Open",
+        "location": "Guelph",
+        "faculty": "D. Gillis",
+        "credits": 0.75,
+        "academic_level": "Undergraduate",
+        "spots": {
+            "availability": 10,
+            "capacity": 37
+        },
+        "section": {
+            "full": "CIS*3750*0101 (7260) Syst Analysis ",
+            "course": "CIS*3750",
+            "section_num": "0101",
+            "course_name": "Syst Analysis "
+        },
+        "meeting": {
+            "lec": [
+                [
+                    "1900-01-01T11:30:00",
+                    "1900-01-01T12:50:00",
+                    "Tues",
+                    "MCKN",
+                    117
+                ],
+                [
+                    "1900-01-01T11:30:00",
+                    "1900-01-01T12:50:00",
+                    "Thur",
+                    "MCKN",
+                    117
+                ]
+            ],
+            "lab": [
+                [
+                    "1900-01-01T09:30:00",
+                    "1900-01-01T11:20:00",
+                    "Fri",
+                    "THRN",
+                    2420
+                ]
+            ],
+            "exam": []
+        }
+    },
+    {
+        "term": "Fall 2022",
+        "status": "Open",
+        "location": "Guelph",
+        "faculty": "D. Gillis",
+        "credits": 0.75,
+        "academic_level": "Undergraduate",
+        "spots": {
+            "availability": 10,
+            "capacity": 37
+        },
+        "section": {
+            "full": "CIS*3750*0102 (7261) Syst Analysis ",
+            "course": "CIS*3750",
+            "section_num": "0102",
+            "course_name": "Syst Analysis "
+        },
+        "meeting": {
+            "lec": [
+                [
+                    "1900-01-01T11:30:00",
+                    "1900-01-01T12:50:00",
+                    "Tues",
+                    "MCKN",
+                    117
+                ],
+                [
+                    "1900-01-01T11:30:00",
+                    "1900-01-01T12:50:00",
+                    "Thur",
+                    "MCKN",
+                    117
+                ]
+            ],
+            "lab": [
+                [
+                    "1900-01-01T14:30:00",
+                    "1900-01-01T16:20:00",
+                    "Thur",
+                    "THRN",
+                    2420
+                ]
+            ],
+            "exam": []
+        }
+    },
+    {
+        "term": "Fall 2022",
+        "status": "Open",
+        "location": "Guelph",
+        "faculty": "D. Gillis",
+        "credits": 0.75,
+        "academic_level": "Undergraduate",
+        "spots": {
+            "availability": 1,
+            "capacity": 37
+        },
+        "section": {
+            "full": "CIS*3750*0103 (7262) Syst Analysis ",
+            "course": "CIS*3750",
+            "section_num": "0103",
+            "course_name": "Syst Analysis "
+        },
+        "meeting": {
+            "lec": [
+                [
+                    "1900-01-01T11:30:00",
+                    "1900-01-01T12:50:00",
+                    "Tues",
+                    "MCKN",
+                    117
+                ],
+                [
+                    "1900-01-01T11:30:00",
+                    "1900-01-01T12:50:00",
+                    "Thur",
+                    "MCKN",
+                    117
+                ]
+            ],
+            "lab": [
+                [
+                    "1900-01-01T09:30:00",
+                    "1900-01-01T11:20:00",
+                    "Wed",
+                    "THRN",
+                    2420
+                ]
+            ],
+            "exam": []
+        }
+    },
+    {
+        "term": "Fall 2022",
+        "status": "Closed",
+        "location": "Guelph",
+        "faculty": "G. Klotz",
+        "credits": 0.75,
+        "academic_level": "Undergraduate",
+        "spots": {
+            "availability": 0,
+            "capacity": 32
+        },
+        "section": {
+            "full": "CIS*3760*0101 (7263) Software Engineering",
+            "course": "CIS*3760",
+            "section_num": "0101",
+            "course_name": "Software Engineering"
+        },
+        "meeting": {
+            "lec": [
+                [
+                    "1900-01-01T08:30:00",
+                    "1900-01-01T09:50:00",
+                    "Tues",
+                    "RICH",
+                    2529
+                ],
+                [
+                    "1900-01-01T08:30:00",
+                    "1900-01-01T09:50:00",
+                    "Thur",
+                    "RICH",
+                    2529
+                ]
+            ],
+            "lab": [
+                [
+                    "1900-01-01T11:30:00",
+                    "1900-01-01T13:20:00",
+                    "Mon",
+                    "THRN",
+                    2420
+                ]
+            ],
+            "exam": []
+        }
+    },
+    {
+        "term": "Fall 2022",
+        "status": "Closed",
+        "location": "Guelph",
+        "faculty": "G. Klotz",
+        "credits": 0.75,
+        "academic_level": "Undergraduate",
+        "spots": {
+            "availability": 0,
+            "capacity": 32
+        },
+        "section": {
+            "full": "CIS*3760*0102 (7264) Software Engineering",
+            "course": "CIS*3760",
+            "section_num": "0102",
+            "course_name": "Software Engineering"
+        },
+        "meeting": {
+            "lec": [
+                [
+                    "1900-01-01T08:30:00",
+                    "1900-01-01T09:50:00",
+                    "Tues",
+                    "RICH",
+                    2529
+                ],
+                [
+                    "1900-01-01T08:30:00",
+                    "1900-01-01T09:50:00",
+                    "Thur",
+                    "RICH",
+                    2529
+                ]
+            ],
+            "lab": [
+                [
+                    "1900-01-01T14:30:00",
+                    "1900-01-01T16:20:00",
+                    "Mon",
+                    "THRN",
+                    2420
+                ]
+            ],
+            "exam": []
+        }
+    },
+    {
+        "term": "Fall 2022",
+        "status": "Closed",
+        "location": "Guelph",
+        "faculty": "G. Klotz",
+        "credits": 0.75,
+        "academic_level": "Undergraduate",
+        "spots": {
+            "availability": 0,
+            "capacity": 32
+        },
+        "section": {
+            "full": "CIS*3760*0103 (7265) Software Engineering",
+            "course": "CIS*3760",
+            "section_num": "0103",
+            "course_name": "Software Engineering"
+        },
+        "meeting": {
+            "lec": [
+                [
+                    "1900-01-01T08:30:00",
+                    "1900-01-01T09:50:00",
+                    "Tues",
+                    "RICH",
+                    2529
+                ],
+                [
+                    "1900-01-01T08:30:00",
+                    "1900-01-01T09:50:00",
+                    "Thur",
+                    "RICH",
+                    2529
+                ]
+            ],
+            "lab": [
+                [
+                    "1900-01-01T19:00:00",
+                    "1900-01-01T20:50:00",
+                    "Thur",
+                    "THRN",
+                    2420
+                ]
+            ],
+            "exam": []
+        }
+    },
+    {
+        "term": "Fall 2022",
+        "status": "Closed",
+        "location": "Guelph",
+        "faculty": "TBA  TBA",
+        "credits": 0.5,
+        "academic_level": "Undergraduate",
+        "spots": {
+            "availability": 0,
+            "capacity": 95
+        },
+        "section": {
+            "full": "CIS*4150*0101 (7266) Software Reliability ",
+            "course": "CIS*4150",
+            "section_num": "0101",
+            "course_name": "Software Reliability "
+        },
+        "meeting": {
+            "lec": [
+                [
+                    "1900-01-01T08:30:00",
+                    "1900-01-01T09:20:00",
+                    "Mon",
+                    "MINS",
+                    300
+                ],
+                [
+                    "1900-01-01T08:30:00",
+                    "1900-01-01T09:20:00",
+                    "Wed",
+                    "MINS",
+                    300
+                ]
+            ],
+            "lab": [
+                [
+                    "1900-01-01T11:30:00",
+                    "1900-01-01T13:20:00",
+                    "Fri",
+                    "THRN",
+                    1307
+                ]
+            ],
+            "exam": [
+                [
+                    "1900-01-01T08:30:00",
+                    "1900-01-01T10:30:00",
+                    "Mon",
+                    "",
+                    0
+                ]
+            ]
+        }
+    },
+    {
+        "term": "Fall 2022",
+        "status": "Closed",
+        "location": "Guelph",
+        "faculty": "D. Flatla",
+        "credits": 0.5,
+        "academic_level": "Undergraduate",
+        "spots": {
+            "availability": 0,
+            "capacity": 95
+        },
+        "section": {
+            "full": "CIS*4300*0101 (7267) Human Computer Interaction",
+            "course": "CIS*4300",
+            "section_num": "0101",
+            "course_name": "Human Computer Interaction"
+        },
+        "meeting": {
+            "lec": [
+                [
+                    "1900-01-01T09:30:00",
+                    "1900-01-01T10:20:00",
+                    "Mon",
+                    "RICH",
+                    2529
+                ],
+                [
+                    "1900-01-01T09:30:00",
+                    "1900-01-01T10:20:00",
+                    "Wed",
+                    "RICH",
+                    2529
+                ]
+            ],
+            "lab": [
+                [
+                    "1900-01-01T08:30:00",
+                    "1900-01-01T10:20:00",
+                    "Fri",
+                    "",
+                    0
+                ]
+            ],
+            "exam": []
+        }
+    },
+    {
+        "term": "Fall 2022",
+        "status": "Open",
+        "location": "Guelph",
+        "faculty": "H. Khan",
+        "credits": 0.5,
+        "academic_level": "Undergraduate",
+        "spots": {
+            "availability": 1,
+            "capacity": 21
+        },
+        "section": {
+            "full": "CIS*4510*0101 (7268) Computer Security Foundations",
+            "course": "CIS*4510",
+            "section_num": "0101",
+            "course_name": "Computer Security Foundations"
+        },
+        "meeting": {
+            "lec": [
+                [
+                    "1900-01-01T10:00:00",
+                    "1900-01-01T11:20:00",
+                    "Tues",
+                    "ALEX",
+                    117
+                ],
+                [
+                    "1900-01-01T10:00:00",
+                    "1900-01-01T11:20:00",
+                    "Thur",
+                    "ALEX",
+                    117
+                ]
+            ],
+            "lab": [
+                [
+                    "1900-01-01T11:30:00",
+                    "1900-01-01T13:20:00",
+                    "Wed",
+                    "MCKN",
+                    313
+                ]
+            ],
+            "exam": [
+                [
+                    "1900-01-01T08:30:00",
+                    "1900-01-01T10:30:00",
+                    "Mon",
+                    "",
+                    0
+                ]
+            ]
+        }
+    },
+    {
+        "term": "Fall 2022",
+        "status": "Closed",
+        "location": "Guelph",
+        "faculty": "H. Khan",
+        "credits": 0.5,
+        "academic_level": "Undergraduate",
+        "spots": {
+            "availability": 0,
+            "capacity": 21
+        },
+        "section": {
+            "full": "CIS*4510*0102 (7269) Computer Security Foundations",
+            "course": "CIS*4510",
+            "section_num": "0102",
+            "course_name": "Computer Security Foundations"
+        },
+        "meeting": {
+            "lec": [
+                [
+                    "1900-01-01T10:00:00",
+                    "1900-01-01T11:20:00",
+                    "Tues",
+                    "ALEX",
+                    117
+                ],
+                [
+                    "1900-01-01T10:00:00",
+                    "1900-01-01T11:20:00",
+                    "Thur",
+                    "ALEX",
+                    117
+                ]
+            ],
+            "lab": [
+                [
+                    "1900-01-01T14:30:00",
+                    "1900-01-01T16:20:00",
+                    "Tues",
+                    "ANNU",
+                    306
+                ]
+            ],
+            "exam": [
+                [
+                    "1900-01-01T08:30:00",
+                    "1900-01-01T10:30:00",
+                    "Mon",
+                    "",
+                    0
+                ]
+            ]
+        }
+    },
+    {
+        "term": "Fall 2022",
+        "status": "Open",
+        "location": "Guelph",
+        "faculty": "TBA  TBA",
+        "credits": 0.5,
+        "academic_level": "Undergraduate",
+        "spots": {
+            "availability": 24,
+            "capacity": 25
+        },
+        "section": {
+            "full": "CIS*4900*01 (7270) Computer Science Project",
+            "course": "CIS*4900",
+            "section_num": "01",
+            "course_name": "Computer Science Project"
+        },
+        "meeting": {
+            "lec": [],
+            "lab": [],
+            "exam": []
+        }
+    },
+    {
+        "term": "Fall 2022",
+        "status": "Open",
+        "location": "Guelph",
+        "faculty": "TBA  TBA",
+        "credits": 0.5,
+        "academic_level": "Undergraduate",
+        "spots": {
+            "availability": 25,
+            "capacity": 25
+        },
+        "section": {
+            "full": "CIS*4910*01 (7271) Computer Science Thesis",
+            "course": "CIS*4910",
+            "section_num": "01",
+            "course_name": "Computer Science Thesis"
+        },
+        "meeting": {
+            "lec": [],
+            "lab": [],
+            "exam": []
+        }
+    },
+    {
+        "term": "Fall 2022",
+        "status": "Closed",
+        "location": "Guelph",
+        "faculty": "N. Bruce",
+        "credits": 0.5,
+        "academic_level": "Graduate",
+        "spots": {
+            "availability": 0,
+            "capacity": 24
+        },
+        "section": {
+            "full": "CIS*6020*02 (7273) Artificial Intelligence",
+            "course": "CIS*6020",
+            "section_num": "02",
+            "course_name": "Artificial Intelligence"
+        },
+        "meeting": {
+            "lec": [
+                [
+                    "1900-01-01T10:00:00",
+                    "1900-01-01T11:20:00",
+                    "Mon",
+                    "REYN",
+                    1101
+                ],
+                [
+                    "1900-01-01T10:00:00",
+                    "1900-01-01T11:20:00",
+                    "Wed",
+                    "REYN",
+                    1101
+                ]
+            ],
+            "lab": [],
+            "exam": []
+        }
+    },
+    {
+        "term": "Fall 2022",
+        "status": "Closed",
+        "location": "Guelph",
+        "faculty": "F. Wang",
+        "credits": 0.5,
+        "academic_level": "Graduate",
+        "spots": {
+            "availability": 0,
+            "capacity": 24
+        },
+        "section": {
+            "full": "CIS*6030*01 (7274) Information Systems",
+            "course": "CIS*6030",
+            "section_num": "01",
+            "course_name": "Information Systems"
+        },
+        "meeting": {
+            "lec": [
+                [
+                    "1900-01-01T08:30:00",
+                    "1900-01-01T09:50:00",
+                    "Mon",
+                    "REYN",
+                    1101
+                ],
+                [
+                    "1900-01-01T08:30:00",
+                    "1900-01-01T09:50:00",
+                    "Wed",
+                    "REYN",
+                    1101
+                ]
+            ],
+            "lab": [],
+            "exam": []
+        }
+    },
+    {
+        "term": "Fall 2022",
+        "status": "Open",
+        "location": "Guelph",
+        "faculty": "H. Khan",
+        "credits": 0.5,
+        "academic_level": "Graduate",
+        "spots": {
+            "availability": 1,
+            "capacity": 24
+        },
+        "section": {
+            "full": "CIS*6510*01 (7275) Cybersecurity and Defense",
+            "course": "CIS*6510",
+            "section_num": "01",
+            "course_name": "Cybersecurity and Defense"
+        },
+        "meeting": {
+            "lec": [
+                [
+                    "1900-01-01T08:30:00",
+                    "1900-01-01T11:20:00",
+                    "Fri",
+                    "SSC",
+                    1303
+                ]
+            ],
+            "lab": [],
+            "exam": []
+        }
+    },
+    {
+        "term": "Fall 2022",
+        "status": "Open",
+        "location": "Guelph",
+        "faculty": "X. Lin",
+        "credits": 0.5,
+        "academic_level": "Graduate",
+        "spots": {
+            "availability": 1,
+            "capacity": 24
+        },
+        "section": {
+            "full": "CIS*6530*01 (7276) Threat Intel ",
+            "course": "CIS*6530",
+            "section_num": "01",
+            "course_name": "Threat Intel "
+        },
+        "meeting": {
+            "lec": [
+                [
+                    "1900-01-01T14:30:00",
+                    "1900-01-01T17:20:00",
+                    "Wed",
+                    "SSC",
+                    1303
+                ]
+            ],
+            "lab": [],
+            "exam": []
+        }
+    },
+    {
+        "term": "Fall 2022",
+        "status": "Open",
+        "location": "Guelph",
+        "faculty": "R. Dara",
+        "credits": 0.5,
+        "academic_level": "Graduate",
+        "spots": {
+            "availability": 2,
+            "capacity": 24
+        },
+        "section": {
+            "full": "CIS*6550*01 (7277) Priv; Compliance; Human Cyber",
+            "course": "CIS*6550",
+            "section_num": "01",
+            "course_name": "Priv"
+        },
+        "meeting": {
+            "lec": [
+                [
+                    "1900-01-01T08:30:00",
+                    "1900-01-01T11:20:00",
+                    "Thur",
+                    "SSC",
+                    1303
+                ]
+            ],
+            "lab": [],
+            "exam": []
+        }
+    },
+    {
+        "term": "Fall 2022",
+        "status": "Open",
+        "location": "Guelph",
+        "faculty": "X. Lin",
+        "credits": 0.5,
+        "academic_level": "Graduate",
+        "spots": {
+            "availability": 3,
+            "capacity": 24
+        },
+        "section": {
+            "full": "CIS*6590*01 (7278) Prof Seminar in Cybersecurity",
+            "course": "CIS*6590",
+            "section_num": "01",
+            "course_name": "Prof Seminar in Cybersecurity"
+        },
+        "meeting": {
+            "lec": [],
+            "lab": [],
+            "exam": []
+        }
+    },
+    {
+        "term": "Fall 2022",
+        "status": "Open",
+        "location": "Guelph",
+        "faculty": "D. Stacey",
+        "credits": 0.5,
+        "academic_level": "Graduate",
+        "spots": {
+            "availability": 17,
+            "capacity": 24
+        },
+        "section": {
+            "full": "CIS*6650*01 (7279) Topics in Computer Science I",
+            "course": "CIS*6650",
+            "section_num": "01",
+            "course_name": "Topics in Computer Science I"
+        },
+        "meeting": {
+            "lec": [
+                [
+                    "1900-01-01T13:00:00",
+                    "1900-01-01T14:20:00",
+                    "Mon",
+                    "REYN",
+                    1101
+                ],
+                [
+                    "1900-01-01T13:00:00",
+                    "1900-01-01T14:20:00",
+                    "Wed",
+                    "REYN",
+                    1101
+                ]
+            ],
+            "lab": [],
+            "exam": []
+        }
+    },
+    {
+        "term": "Fall 2022",
+        "status": "Open",
+        "location": "Guelph",
+        "faculty": "D. Gillis",
+        "credits": 0.5,
+        "academic_level": "Graduate",
+        "spots": {
+            "availability": 3,
+            "capacity": 4
+        },
+        "section": {
+            "full": "CIS*6660*01 (9408) ST:Statistical Methods for CS",
+            "course": "CIS*6660",
+            "section_num": "01",
+            "course_name": "ST"
+        },
+        "meeting": {
+            "lec": [],
+            "lab": [],
+            "exam": []
+        }
+    },
+    {
+        "term": "Fall 2022",
+        "status": "Open",
+        "location": "Guelph",
+        "faculty": "R. Dara",
+        "credits": 0.5,
+        "academic_level": "Graduate",
+        "spots": {
+            "availability": 3,
+            "capacity": 4
+        },
+        "section": {
+            "full": "CIS*6660*02 (9565) ST:Information Privacy in AI",
+            "course": "CIS*6660",
+            "section_num": "02",
+            "course_name": "ST"
+        },
+        "meeting": {
+            "lec": [],
+            "lab": [],
+            "exam": []
+        }
+    }
+]
